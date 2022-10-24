@@ -1,3 +1,4 @@
+import re
 from nltk import word_tokenize, pos_tag
 from nltk.corpus import wordnet, stopwords
 from nltk.stem.wordnet import WordNetLemmatizer
@@ -6,6 +7,7 @@ import numpy as np
 from utils.wordnet import GetWordnetPos
 import string
 
+
 class Preprocess(object):
     """ preprocess  """
     def __init__(self, sentence):
@@ -13,7 +15,7 @@ class Preprocess(object):
 
     def get_tokens(self):
         """ return list of tokens"""
-        
+        import re
         # Format words and remove unwanted characters
         self.sentence = re.sub(r'https?:\/\/.*[\r\n]*', '', self.sentence, flags=re.MULTILINE)
         self.sentence = re.sub(r'\<a href', ' ', self.sentence)

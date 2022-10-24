@@ -1040,3 +1040,1098 @@ missing_train_df_no_outliers_RandomOverSampler	Index(['lemma_jaccard_score', 'ov
        'overlap_score'],
       dtype='object')	 LR 	0.68646408839779	dict_keys(['lemma_jaccard_score', 'jaccard_similarity_score', 'cosine/length_ratio', 'overall_sim_score', 'cosine_similarity_trigrams'])	 w=None	 C=1.0
 missing_train_df_no_outliers_RandomOverSampler	 SVM 	0.6850828729281768	 w=None
+bow_train_df	 LR 	0.5400552486187845	 w={0: 0.5, 1: 0.5}	 C=0.5
+tfidf_train_df	 LR 	0.5428176795580111	 w={0: 1, 1: 1}	 C=10
+bow_train_df	 LR 	0.5	 w={0: 2, 1: 1}	 C=0.5
+tfidf_train_df	 LR 	0.5	 w={0: 4, 1: 3}	 C=0.1
+bow_train_df	 LR 	0.5939226519337016	 w={0: 2, 1: 1}	 C=0.5
+tfidf_train_df	 LR 	0.585635359116022	 w={0: 4, 1: 3}	 C=0.1
+bow_train_df	 LR 	0.5814917127071824	 w=None	 C=1.0
+tfidf_train_df	 LR 	0.5814917127071824	 w=None	 C=1.0
+bow_train_df_randomUnder	 LR 	0.5124309392265194	 w=None	 C=1.0
+tfidf_train_df_randomUnder	 LR 	0.5165745856353591	 w=None	 C=1.0
+bow_train_df_no_outliers	 LR 	0.5276243093922652	 w=None	 C=1.0
+tfidf_train_df_no_outliers	 LR 	0.5276243093922652	 w=None	 C=1.0
+bow_train_df2	 LR 	0.5179558011049724	 w=None	 C=1.0
+tfidf_train_df2	 LR 	0.5193370165745856	 w=None	 C=1.0
+bow_train_df2_randomUnder	 LR 	0.5069060773480663	 w=None	 C=1.0
+tfidf_train_df2_randomUnder	 LR 	0.505524861878453	 w=None	 C=1.0
+bow_train_df2_no_outliers	 LR 	0.5124309392265194	 w=None	 C=1.0
+tfidf_train_df2_no_outliers	 LR 	0.5124309392265194	 w=None	 C=1.0
+bow_missing_train	 LR 	0.574585635359116	 w=None	 C=1.0
+tfidf_missing_train	 LR 	0.5759668508287292	 w=None	 C=1.0
+bow_missing_train_df_no_outliers	 LR 	0.5207182320441989	 w=None	 C=1.0
+tfidf_missing_train_df_no_outliers	 LR 	0.5220994475138122	 w=None	 C=1.0
+bow_missing_train_df_randomUnder	 LR 	0.5193370165745856	 w=None	 C=1.0
+tfidf_missing_train_df_randomUnder	 LR 	0.5179558011049724	 w=None	 C=1.0
+bow_dev_df	 LR 	0.5041436464088398	 w=None	 C=1.0
+tfidf_dev_df	 LR 	0.505524861878453	 w=None	 C=1.0
+bow_train_df_no_outliers_randomUnder	 LR 	0.4986187845303867	 w=None	 C=1.0
+tfidf_train_df_no_outliers_randomUnder	 LR 	0.5	 w=None	 C=1.0
+bow_train_df2_no_outliers_randomUnder	 LR 	0.4986187845303867	 w=None	 C=1.0
+tfidf_train_df2_no_outliers_randomUnder	 LR 	0.5	 w=None	 C=1.0
+bow_missing_train_df_no_outliers_randomUnder	 LR 	0.5179558011049724	 w=None	 C=1.0
+tfidf_missing_train_df_no_outliers_randomUnder	 LR 	0.5193370165745856	 w=None	 C=1.0
+bow_train_df_3	 LR 	0.5069060773480663	 w=None	 C=1.0
+tfidf_train_df_3	 LR 	0.505524861878453	 w=None	 C=1.0
+bow_train_df3_randomUnder	 LR 	0.5124309392265194	 w=None	 C=1.0
+tfidf_train_df3_randomUnder	 LR 	0.5124309392265194	 w=None	 C=1.0
+bow_train_df3_no_outliers	 LR 	0.4986187845303867	 w=None	 C=1.0
+tfidf_train_df3_no_outliers	 LR 	0.5	 w=None	 C=1.0
+missing_train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'jaccard_distance_bigrams',
+       'cosine_similarity_bigrams', 'bigram_similarity',
+       'jaccard_distance_trigrams', 'cosine_similarity_trigrams',
+       'trigram_similarity', 'jaccard_distance_quadgrams',
+       'cosine_similarity_quadgrams', 'quadgram_similarity'],
+      dtype='object')	 LR 	0.6919889502762431	dict_keys(['lemma_jaccard_score', 'trigram_similarity', 'overlap2_score', 'cosine_similarity_trigrams', 'jaccard_distance_bigrams'])	 w=None	 C=1.0
+missing_train_df3	 SVM 	0.6919889502762431	 w=None
+missing_train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'jaccard_distance_bigrams',
+       'cosine_similarity_bigrams', 'bigram_similarity',
+       'jaccard_distance_trigrams', 'cosine_similarity_trigrams',
+       'trigram_similarity', 'jaccard_distance_quadgrams',
+       'cosine_similarity_quadgrams', 'quadgram_similarity'],
+      dtype='object')	 LR 	0.7030386740331491	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'cosine/length_ratio', 'overall_sim_score', 'overlap_score'])	 w=None	 C=1.0
+missing_train_df3	 SVM 	0.6933701657458563	 w=None
+missing_train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.6906077348066298	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'overlap2_score', 'overall_sim_score', 'cosine/length_ratio'])	 w=None	 C=1.0
+missing_train_df3	 SVM 	0.6988950276243094	 w=None
+missing_train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.7044198895027625	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'cosine/length_ratio', 'overall_sim_score', 'overlap_score'])	 w=None	 C=1.0
+missing_train_df3	 SVM 	0.6892265193370166	 w=None
+missing_train_df3	Index(['lemma_jaccard_score', 'overall_sim_score', 'cosine/length_ratio',
+       'cosine_similarity_trigrams', 'jaccard_similarity_score',
+       'overlap_score'],
+      dtype='object')	 LR 	0.68646408839779	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'overall_sim_score', 'cosine/length_ratio', 'overlap_score'])	 w=None	 C=1.0
+missing_train_df3	 SVM 	0.7016574585635359	 w=None
+missing_train_df3	Index(['lemma_jaccard_score', 'overall_sim_score', 'cosine/length_ratio',
+       'cosine_similarity_trigrams', 'jaccard_similarity_score',
+       'overlap_score'],
+      dtype='object')	 LR 	0.6975138121546961	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'overall_sim_score', 'cosine/length_ratio', 'overlap_score'])	 w=None	 C=1.0
+missing_train_df3	 SVM 	0.6878453038674033	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.7016574585635359	dict_keys(['overlap_score', 'cosine_similarity_trigrams', 'overall_sim_score', 'cosine/length_ratio', 'overlap2_score'])	 w=None	 C=1.0
+train_df3	 SVM 	0.6077348066298343	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.6505524861878453	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'cosine/length_ratio', 'overlap2_score', 'jaccard_similarity_score'])	 w=None	 C=1.0
+train_df3	 SVM 	0.4723756906077348	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.7044198895027625	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'cosine/length_ratio', 'overall_sim_score', 'overall_similarity_wup_semantic'])	 w=None	 C=1.0
+train_df3	 SVM 	0.6767955801104972	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.7044198895027625	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'cosine/length_ratio', 'overall_sim_score', 'overall_similarity_wup_semantic'])	 w=None	 C=1.0
+train_df3	 SVM 	0.6767955801104972	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.7002762430939227	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'overall_similarity_path_semantic', 'cosine_similarity_score', 'overall_similarity_wup_semantic'])	 w=None	 C=1.0
+train_df3	 SVM 	0.6726519337016574	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.6961325966850829	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'overall_similarity_wup_semantic', 'cosine_similarity_score', 'overall_similarity_path_semantic'])	 w=None	 C=1.0
+train_df3	 SVM 	0.6629834254143646	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.6919889502762431	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'overall_sim_score', 'overlap2_score', 'cosine/length_ratio'])	 w=None	 C=1.0
+train_df3	 SVM 	0.6892265193370166	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.7044198895027625	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'cosine/length_ratio', 'overall_sim_score', 'overall_similarity_wup_semantic'])	 w=None	 C=1.0
+train_df3	 SVM 	0.6767955801104972	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.6919889502762431	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'overall_sim_score', 'cosine/length_ratio', 'jaccard_similarity_score'])	 w=None	 C=1.0
+train_df3	 SVM 	0.6988950276243094	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.649171270718232	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'cosine/length_ratio', 'overall_sim_score', 'overlap_score'])	 w=None	 C=1.0
+train_df3	 SVM 	0.6035911602209945	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.6975138121546961	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'overall_sim_score', 'cosine/length_ratio', 'overlap_score'])	 w=None	 C=1.0
+train_df3	 SVM 	0.6988950276243094	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.6588397790055248	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'cosine/length_ratio', 'overall_sim_score', 'overall_similarity_path_semantic'])	 w=None	 C=1.0
+train_df3	 SVM 	0.6353591160220995	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.649171270718232	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'cosine/length_ratio', 'overall_sim_score', 'overlap_score'])	 w=None	 C=1.0
+train_df3	 SVM 	0.6035911602209945	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.649171270718232	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'cosine/length_ratio', 'overall_sim_score', 'overlap_score'])	 w=None	 C=1.0
+train_df3	 SVM 	0.611878453038674	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.6519337016574586	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'overall_sim_score', 'cosine/length_ratio', 'overall_similarity_path_semantic'])	 w=None	 C=1.0
+train_df3	 SVM 	0.6077348066298343	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.6546961325966851	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'overall_sim_score', 'cosine/length_ratio', 'overall_similarity_path_semantic'])	 w=None	 C=1.0
+train_df3	 SVM 	0.6284530386740331	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.6560773480662984	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'overall_sim_score', 'cosine/length_ratio', 'overall_similarity_path_semantic'])	 w=None	 C=1.0
+train_df3	 SVM 	0.6270718232044199	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.6574585635359116	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'cosine/length_ratio', 'overall_sim_score', 'overall_similarity_path_semantic'])	 w=None	 C=1.0
+train_df3	 SVM 	0.6160220994475138	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.6616022099447514	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'cosine/length_ratio', 'overall_sim_score', 'overall_similarity_path_semantic'])	 w=None	 C=1.0
+train_df3	 SVM 	0.6215469613259669	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.664364640883978	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'overall_sim_score', 'cosine/length_ratio', 'overall_similarity_path_semantic'])	 w=None	 C=1.0
+train_df3	 SVM 	0.6256906077348067	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.6671270718232044	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'overall_sim_score', 'cosine/length_ratio', 'overall_similarity_path_semantic'])	 w=None	 C=1.0
+train_df3	 SVM 	0.638121546961326	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.675414364640884	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'cosine/length_ratio', 'overall_sim_score', 'overall_similarity_path_semantic'])	 w=None	 C=1.0
+train_df3	 SVM 	0.6616022099447514	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.6767955801104972	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'cosine/length_ratio', 'overall_sim_score', 'overall_similarity_path_semantic'])	 w=None	 C=1.0
+train_df3	 SVM 	0.6574585635359116	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.6726519337016574	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'overall_sim_score', 'overall_similarity_path_semantic', 'cosine/length_ratio'])	 w=None	 C=1.0
+train_df3	 SVM 	0.643646408839779	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.6712707182320442	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'cosine/length_ratio', 'overall_sim_score', 'overlap_score'])	 w=None	 C=1.0
+train_df3	 SVM 	0.6574585635359116	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.6712707182320442	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'cosine/length_ratio', 'overall_sim_score', 'overall_similarity_path_semantic'])	 w=None	 C=1.0
+train_df3	 SVM 	0.6588397790055248	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.6961325966850829	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'cosine/length_ratio', 'overall_sim_score', 'overlap_score'])	 w=None	 C=1.0
+train_df3	 SVM 	0.6906077348066298	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.6685082872928176	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'overall_sim_score', 'overlap_score', 'cosine/length_ratio'])	 w=None	 C=1.0
+train_df3	 SVM 	0.6395027624309392	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.6712707182320442	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'overall_sim_score', 'cosine/length_ratio', 'overlap_score'])	 w=None	 C=1.0
+train_df3	 SVM 	0.638121546961326	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.6850828729281768	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'overall_sim_score', 'cosine/length_ratio', 'overlap_score'])	 w=None	 C=1.0
+train_df3	 SVM 	0.6823204419889503	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.6947513812154696	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'overall_sim_score', 'cosine/length_ratio', 'overlap_score'])	 w=None	 C=1.0
+train_df3	 SVM 	0.7002762430939227	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.6988950276243094	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'cosine/length_ratio', 'overlap_score', 'overall_sim_score'])	 w=None	 C=1.0
+train_df3	 SVM 	0.6919889502762431	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.6947513812154696	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'overall_sim_score', 'cosine/length_ratio', 'overlap_score'])	 w=None	 C=1.0
+train_df3	 SVM 	0.7030386740331491	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.7016574585635359	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'overall_sim_score', 'overlap_score', 'cosine/length_ratio'])	 w=None	 C=1.0
+train_df3	 SVM 	0.7058011049723757	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.7058011049723757	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'overall_sim_score', 'cosine/length_ratio', 'overlap_score'])	 w=None	 C=1.0
+train_df3	 SVM 	0.6961325966850829	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.7002762430939227	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'overall_sim_score', 'cosine/length_ratio', 'overlap_score'])	 w=None	 C=1.0
+train_df3	 SVM 	0.7016574585635359	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.7030386740331491	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'overall_sim_score', 'cosine/length_ratio', 'overlap_score'])	 w=None	 C=1.0
+train_df3	 SVM 	0.6947513812154696	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.7016574585635359	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'overall_sim_score', 'cosine/length_ratio', 'overlap_score'])	 w=None	 C=1.0
+train_df3	 SVM 	0.6975138121546961	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.6988950276243094	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'overlap_score', 'overall_sim_score', 'cosine/length_ratio'])	 w=None	 C=1.0
+train_df3	 SVM 	0.6975138121546961	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.7016574585635359	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'overall_sim_score', 'cosine/length_ratio', 'overlap_score'])	 w=None	 C=1.0
+train_df3	 SVM 	0.7030386740331491	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.6961325966850829	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'cosine/length_ratio', 'overall_sim_score', 'overlap_score'])	 w=None	 C=1.0
+train_df3	 SVM 	0.6906077348066298	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.6726519337016574	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'overall_sim_score', 'cosine/length_ratio', 'overlap_score'])	 w=None	 C=1.0
+train_df3	 SVM 	0.6519337016574586	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.680939226519337	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'overall_sim_score', 'cosine/length_ratio', 'overlap_score'])	 w=None	 C=1.0
+train_df3	 SVM 	0.6477900552486188	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.6740331491712708	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'overall_sim_score', 'cosine/length_ratio', 'overlap_score'])	 w=None	 C=1.0
+train_df3	 SVM 	0.6422651933701657	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.6823204419889503	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'overall_sim_score', 'overlap_score', 'cosine/length_ratio'])	 w=None	 C=1.0
+train_df3	 SVM 	0.6850828729281768	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.6837016574585635	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'overall_sim_score', 'cosine/length_ratio', 'overlap_score'])	 w=None	 C=1.0
+train_df3	 SVM 	0.6906077348066298	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.7002762430939227	dict_keys(['lemma_jaccard_score', 'overall_sim_score', 'overlap_score', 'cosine_similarity_trigrams', 'cosine/length_ratio'])	 w=None	 C=1.0
+train_df3	 SVM 	0.6947513812154696	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.6947513812154696	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'overall_sim_score', 'cosine/length_ratio', 'overlap_score'])	 w=None	 C=1.0
+train_df3	 SVM 	0.7099447513812155	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.6892265193370166	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'overall_sim_score', 'cosine/length_ratio', 'overlap_score'])	 w=None	 C=1.0
+train_df3	 SVM 	0.6919889502762431	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.6892265193370166	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'cosine/length_ratio', 'overall_sim_score', 'overlap_score'])	 w=None	 C=1.0
+train_df3	 SVM 	0.6975138121546961	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.6975138121546961	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'overall_sim_score', 'cosine/length_ratio', 'overlap_score'])	 w=None	 C=1.0
+train_df3	 SVM 	0.7016574585635359	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.7030386740331491	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'overall_sim_score', 'cosine/length_ratio', 'overlap_score'])	 w=None	 C=1.0
+train_df3	 SVM 	0.6961325966850829	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.7016574585635359	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'cosine/length_ratio', 'overlap_score', 'overall_sim_score'])	 w=None	 C=1.0
+train_df3	 SVM 	0.6961325966850829	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.7016574585635359	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'cosine/length_ratio', 'overall_sim_score', 'overlap_score'])	 w=None	 C=1.0
+train_df3	 SVM 	0.7058011049723757	 w=None
+train_df3	Index(['cosine_similarity_score', 'overlap_score', 'overlap2_score',
+       'cosine/length_ratio', 'jaccard_similarity_score',
+       'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'cosine_similarity_trigrams'],
+      dtype='object')	 LR 	0.680939226519337	dict_keys(['lemma_jaccard_score', 'cosine_similarity_trigrams', 'overlap_score', 'overall_sim_score', 'cosine/length_ratio'])	 w=None	 C=1.0
+train_df3	 SVM 	0.6781767955801105	 w=None
+one_ngram_train_df	 LR 	0.6961325966850829	 w=None	 C=1.0
+one_ngram_train_df	 SVM 	0.6933701657458563	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 LR 	0.7071823204419889	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 SVM 	0.6919889502762431	 w=None	 C=1.0
+one_ngram_train_df2	 LR 	0.7058011049723757	 w=None	 C=1.0
+one_ngram_train_df2	 SVM 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 LR 	0.7030386740331491	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 SVM 	0.6947513812154696	 w=None	 C=1.0
+one_ngram_missing_train	 LR 	0.7030386740331491	 w=None	 C=1.0
+one_ngram_missing_train	 SVM 	0.6933701657458563	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 LR 	0.7058011049723757	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 SVM 	0.6947513812154696	 w=None	 C=1.0
+one_ngram_train_df_3	 LR 	0.7002762430939227	 w=None	 C=1.0
+one_ngram_train_df_3	 SVM 	0.6961325966850829	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 LR 	0.7002762430939227	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 SVM 	0.6961325966850829	 w=None	 C=1.0
+one_ngram_train_df	 LR 	0.6961325966850829	 w=None	 C=1.0
+one_ngram_train_df	 SVM 	0.7030386740331491	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 LR 	0.7030386740331491	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 SVM 	0.6933701657458563	 w=None	 C=1.0
+one_ngram_train_df2	 LR 	0.7030386740331491	 w=None	 C=1.0
+one_ngram_train_df2	 SVM 	0.6947513812154696	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 LR 	0.7030386740331491	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 SVM 	0.7002762430939227	 w=None	 C=1.0
+one_ngram_missing_train	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_missing_train	 SVM 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 LR 	0.7030386740331491	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 SVM 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df_3	 LR 	0.7016574585635359	 w=None	 C=1.0
+one_ngram_train_df_3	 SVM 	0.7002762430939227	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 SVM 	0.7002762430939227	 w=None	 C=1.0
+one_ngram_train_df	 LR 	0.7030386740331491	 w=None	 C=1.0
+one_ngram_train_df	 SVM 	0.68646408839779	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 LR 	0.6961325966850829	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 SVM 	0.6878453038674033	 w=None	 C=1.0
+one_ngram_train_df2	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df2	 SVM 	0.6878453038674033	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 LR 	0.7016574585635359	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 SVM 	0.6906077348066298	 w=None	 C=1.0
+one_ngram_missing_train	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_missing_train	 SVM 	0.6878453038674033	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 LR 	0.6947513812154696	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 SVM 	0.6919889502762431	 w=None	 C=1.0
+one_ngram_train_df_3	 LR 	0.6961325966850829	 w=None	 C=1.0
+one_ngram_train_df_3	 SVM 	0.6823204419889503	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 LR 	0.6961325966850829	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 SVM 	0.6892265193370166	 w=None	 C=1.0
+one_ngram_train_df	 LR 	0.7044198895027625	 w=None	 C=1.0
+one_ngram_train_df	 SVM 	0.6767955801104972	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 LR 	0.7044198895027625	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 SVM 	0.6767955801104972	 w=None	 C=1.0
+one_ngram_train_df2	 LR 	0.7044198895027625	 w=None	 C=1.0
+one_ngram_train_df2	 SVM 	0.6767955801104972	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 LR 	0.7044198895027625	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 SVM 	0.6767955801104972	 w=None	 C=1.0
+one_ngram_missing_train	 LR 	0.7044198895027625	 w=None	 C=1.0
+one_ngram_missing_train	 SVM 	0.6767955801104972	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 LR 	0.7044198895027625	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 SVM 	0.6767955801104972	 w=None	 C=1.0
+one_ngram_train_df_3	 LR 	0.7044198895027625	 w=None	 C=1.0
+one_ngram_train_df_3	 SVM 	0.6767955801104972	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 LR 	0.7044198895027625	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 SVM 	0.6767955801104972	 w=None	 C=1.0
+one_ngram_train_df	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df	 SVM 	0.6947513812154696	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 LR 	0.6961325966850829	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 SVM 	0.7030386740331491	 w=None	 C=1.0
+one_ngram_train_df2	 LR 	0.6961325966850829	 w=None	 C=1.0
+one_ngram_train_df2	 SVM 	0.6933701657458563	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 LR 	0.6961325966850829	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 SVM 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_missing_train	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_missing_train	 SVM 	0.7016574585635359	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 LR 	0.6933701657458563	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 SVM 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df_3	 LR 	0.6933701657458563	 w=None	 C=1.0
+one_ngram_train_df_3	 SVM 	0.6906077348066298	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 LR 	0.6961325966850829	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 SVM 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df	 LR 	0.6726519337016574	 w=None	 C=1.0
+one_ngram_train_df	 SVM 	0.6408839779005525	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 LR 	0.6726519337016574	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 SVM 	0.6464088397790055	 w=None	 C=1.0
+one_ngram_train_df2	 LR 	0.6712707182320442	 w=None	 C=1.0
+one_ngram_train_df2	 SVM 	0.6464088397790055	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 LR 	0.669889502762431	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 SVM 	0.6477900552486188	 w=None	 C=1.0
+one_ngram_missing_train	 LR 	0.6767955801104972	 w=None	 C=1.0
+one_ngram_missing_train	 SVM 	0.6395027624309392	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 LR 	0.675414364640884	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 SVM 	0.6339779005524862	 w=None	 C=1.0
+one_ngram_train_df_3	 LR 	0.675414364640884	 w=None	 C=1.0
+one_ngram_train_df_3	 SVM 	0.6546961325966851	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 LR 	0.6740331491712708	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 SVM 	0.649171270718232	 w=None	 C=1.0
+one_ngram_train_df	 LR 	0.7030386740331491	 w=None	 C=1.0
+one_ngram_train_df	 SVM 	0.6933701657458563	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 LR 	0.7002762430939227	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 SVM 	0.6947513812154696	 w=None	 C=1.0
+one_ngram_train_df2	 LR 	0.7030386740331491	 w=None	 C=1.0
+one_ngram_train_df2	 SVM 	0.7002762430939227	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 LR 	0.7058011049723757	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 SVM 	0.6961325966850829	 w=None	 C=1.0
+one_ngram_missing_train	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_missing_train	 SVM 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 SVM 	0.7002762430939227	 w=None	 C=1.0
+one_ngram_train_df_3	 LR 	0.7002762430939227	 w=None	 C=1.0
+one_ngram_train_df_3	 SVM 	0.6947513812154696	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 LR 	0.7002762430939227	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 SVM 	0.6933701657458563	 w=None	 C=1.0
+one_ngram_train_df	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df	 SVM 	0.7030386740331491	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 SVM 	0.6919889502762431	 w=None	 C=1.0
+one_ngram_train_df2	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df2	 SVM 	0.6933701657458563	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 LR 	0.7002762430939227	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 SVM 	0.6906077348066298	 w=None	 C=1.0
+one_ngram_missing_train	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_missing_train	 SVM 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 LR 	0.7002762430939227	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 SVM 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df_3	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df_3	 SVM 	0.6947513812154696	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 SVM 	0.6961325966850829	 w=None	 C=1.0
+one_ngram_train_df	 LR 	0.6961325966850829	 w=None	 C=1.0
+one_ngram_train_df	 SVM 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 LR 	0.7002762430939227	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 SVM 	0.7030386740331491	 w=None	 C=1.0
+one_ngram_train_df2	 LR 	0.6947513812154696	 w=None	 C=1.0
+one_ngram_train_df2	 SVM 	0.6919889502762431	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 SVM 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_missing_train	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_missing_train	 SVM 	0.7044198895027625	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 SVM 	0.7030386740331491	 w=None	 C=1.0
+one_ngram_train_df_3	 LR 	0.7002762430939227	 w=None	 C=1.0
+one_ngram_train_df_3	 SVM 	0.6919889502762431	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 SVM 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df	 LR 	0.6892265193370166	 w=None	 C=1.0
+one_ngram_train_df	 SVM 	0.6823204419889503	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 LR 	0.6892265193370166	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 SVM 	0.6823204419889503	 w=None	 C=1.0
+one_ngram_train_df2	 LR 	0.6892265193370166	 w=None	 C=1.0
+one_ngram_train_df2	 SVM 	0.6823204419889503	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 LR 	0.6892265193370166	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 SVM 	0.6823204419889503	 w=None	 C=1.0
+one_ngram_missing_train	 LR 	0.6892265193370166	 w=None	 C=1.0
+one_ngram_missing_train	 SVM 	0.6823204419889503	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 LR 	0.6892265193370166	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 SVM 	0.6823204419889503	 w=None	 C=1.0
+one_ngram_train_df_3	 LR 	0.6892265193370166	 w=None	 C=1.0
+one_ngram_train_df_3	 SVM 	0.6823204419889503	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 LR 	0.6892265193370166	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 SVM 	0.6823204419889503	 w=None	 C=1.0
+one_ngram_train_df	 LR 	0.7002762430939227	 w=None	 C=1.0
+one_ngram_train_df	 SVM 	0.7002762430939227	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 LR 	0.6961325966850829	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 SVM 	0.7058011049723757	 w=None	 C=1.0
+one_ngram_train_df2	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df2	 SVM 	0.7002762430939227	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 LR 	0.7002762430939227	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 SVM 	0.6933701657458563	 w=None	 C=1.0
+one_ngram_missing_train	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_missing_train	 SVM 	0.7002762430939227	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 SVM 	0.7030386740331491	 w=None	 C=1.0
+one_ngram_train_df_3	 LR 	0.6947513812154696	 w=None	 C=1.0
+one_ngram_train_df_3	 SVM 	0.7113259668508287	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 LR 	0.7016574585635359	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 SVM 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df	 SVM 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 LR 	0.6933701657458563	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 SVM 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df2	 LR 	0.7030386740331491	 w=None	 C=1.0
+one_ngram_train_df2	 SVM 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 SVM 	0.7030386740331491	 w=None	 C=1.0
+one_ngram_missing_train	 LR 	0.7002762430939227	 w=None	 C=1.0
+one_ngram_missing_train	 SVM 	0.7071823204419889	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 LR 	0.6947513812154696	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 SVM 	0.6947513812154696	 w=None	 C=1.0
+one_ngram_train_df_3	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df_3	 SVM 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 SVM 	0.7016574585635359	 w=None	 C=1.0
+one_ngram_train_df	 LR 	0.6892265193370166	 w=None	 C=1.0
+one_ngram_train_df	 SVM 	0.7099447513812155	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 LR 	0.6878453038674033	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 SVM 	0.7044198895027625	 w=None	 C=1.0
+one_ngram_train_df2	 LR 	0.6878453038674033	 w=None	 C=1.0
+one_ngram_train_df2	 SVM 	0.7044198895027625	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 LR 	0.6878453038674033	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 SVM 	0.7071823204419889	 w=None	 C=1.0
+one_ngram_missing_train	 LR 	0.68646408839779	 w=None	 C=1.0
+one_ngram_missing_train	 SVM 	0.7002762430939227	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 LR 	0.6878453038674033	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 SVM 	0.7099447513812155	 w=None	 C=1.0
+one_ngram_train_df_3	 LR 	0.68646408839779	 w=None	 C=1.0
+one_ngram_train_df_3	 SVM 	0.7058011049723757	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 LR 	0.6878453038674033	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 SVM 	0.7002762430939227	 w=None	 C=1.0
+one_ngram_train_df	 LR 	0.6947513812154696	 w=None	 C=1.0
+one_ngram_train_df	 SVM 	0.6933701657458563	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 SVM 	0.7044198895027625	 w=None	 C=1.0
+one_ngram_train_df2	 LR 	0.7016574585635359	 w=None	 C=1.0
+one_ngram_train_df2	 SVM 	0.7030386740331491	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 LR 	0.6961325966850829	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 SVM 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_missing_train	 LR 	0.7002762430939227	 w=None	 C=1.0
+one_ngram_missing_train	 SVM 	0.7016574585635359	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 LR 	0.7002762430939227	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 SVM 	0.7030386740331491	 w=None	 C=1.0
+one_ngram_train_df_3	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df_3	 SVM 	0.7044198895027625	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 SVM 	0.7002762430939227	 w=None	 C=1.0
+one_ngram_train_df	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df	 SVM 	0.6906077348066298	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 SVM 	0.6906077348066298	 w=None	 C=1.0
+one_ngram_train_df2	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df2	 SVM 	0.6906077348066298	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 SVM 	0.6906077348066298	 w=None	 C=1.0
+one_ngram_missing_train	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_missing_train	 SVM 	0.6906077348066298	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 SVM 	0.6906077348066298	 w=None	 C=1.0
+one_ngram_train_df_3	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df_3	 SVM 	0.6906077348066298	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 SVM 	0.6906077348066298	 w=None	 C=1.0
+one_ngram_train_df	 LR 	0.7002762430939227	 w=None	 C=1.0
+one_ngram_train_df	 SVM 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 LR 	0.7002762430939227	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 SVM 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df2	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df2	 SVM 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 LR 	0.6961325966850829	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 SVM 	0.7002762430939227	 w=None	 C=1.0
+one_ngram_missing_train	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_missing_train	 SVM 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 LR 	0.7016574585635359	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 SVM 	0.6947513812154696	 w=None	 C=1.0
+one_ngram_train_df_3	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df_3	 SVM 	0.7002762430939227	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 LR 	0.7016574585635359	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 SVM 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df	 LR 	0.6933701657458563	 w=None	 C=1.0
+one_ngram_train_df	 SVM 	0.6919889502762431	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 LR 	0.6961325966850829	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 SVM 	0.7002762430939227	 w=None	 C=1.0
+one_ngram_train_df2	 LR 	0.6933701657458563	 w=None	 C=1.0
+one_ngram_train_df2	 SVM 	0.6933701657458563	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 LR 	0.6906077348066298	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 SVM 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_missing_train	 LR 	0.6961325966850829	 w=None	 C=1.0
+one_ngram_missing_train	 SVM 	0.6961325966850829	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 LR 	0.6961325966850829	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 SVM 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df_3	 LR 	0.6892265193370166	 w=None	 C=1.0
+one_ngram_train_df_3	 SVM 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 LR 	0.6919889502762431	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 SVM 	0.6961325966850829	 w=None	 C=1.0
+one_ngram_train_df	 LR 	0.6961325966850829	 w=None	 C=1.0
+one_ngram_train_df	 SVM 	0.6947513812154696	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 LR 	0.6919889502762431	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 SVM 	0.7071823204419889	 w=None	 C=1.0
+one_ngram_train_df2	 LR 	0.68646408839779	 w=None	 C=1.0
+one_ngram_train_df2	 SVM 	0.6947513812154696	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 SVM 	0.6947513812154696	 w=None	 C=1.0
+one_ngram_missing_train	 LR 	0.6961325966850829	 w=None	 C=1.0
+one_ngram_missing_train	 SVM 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 SVM 	0.6919889502762431	 w=None	 C=1.0
+one_ngram_train_df_3	 LR 	0.6933701657458563	 w=None	 C=1.0
+one_ngram_train_df_3	 SVM 	0.6961325966850829	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 SVM 	0.6961325966850829	 w=None	 C=1.0
+one_ngram_train_df	 LR 	0.6795580110497238	 w=None	 C=1.0
+one_ngram_train_df	 SVM 	0.6878453038674033	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 LR 	0.6795580110497238	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 SVM 	0.6878453038674033	 w=None	 C=1.0
+one_ngram_train_df2	 LR 	0.6795580110497238	 w=None	 C=1.0
+one_ngram_train_df2	 SVM 	0.6878453038674033	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 LR 	0.6795580110497238	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 SVM 	0.6878453038674033	 w=None	 C=1.0
+one_ngram_missing_train	 LR 	0.6795580110497238	 w=None	 C=1.0
+one_ngram_missing_train	 SVM 	0.6878453038674033	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 LR 	0.6795580110497238	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 SVM 	0.6878453038674033	 w=None	 C=1.0
+one_ngram_train_df_3	 LR 	0.6795580110497238	 w=None	 C=1.0
+one_ngram_train_df_3	 SVM 	0.6878453038674033	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 LR 	0.6795580110497238	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 SVM 	0.6878453038674033	 w=None	 C=1.0
+one_ngram_train_df	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df	 SVM 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 SVM 	0.7016574585635359	 w=None	 C=1.0
+one_ngram_train_df2	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df2	 SVM 	0.7058011049723757	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 LR 	0.6919889502762431	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 SVM 	0.6878453038674033	 w=None	 C=1.0
+one_ngram_missing_train	 LR 	0.7030386740331491	 w=None	 C=1.0
+one_ngram_missing_train	 SVM 	0.7071823204419889	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 SVM 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df_3	 LR 	0.6906077348066298	 w=None	 C=1.0
+one_ngram_train_df_3	 SVM 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 LR 	0.6919889502762431	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 SVM 	0.7016574585635359	 w=None	 C=1.0
+one_ngram_train_df	 LR 	0.6906077348066298	 w=None	 C=1.0
+one_ngram_train_df	 SVM 	0.6919889502762431	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 LR 	0.6947513812154696	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 SVM 	0.7002762430939227	 w=None	 C=1.0
+one_ngram_train_df2	 LR 	0.6906077348066298	 w=None	 C=1.0
+one_ngram_train_df2	 SVM 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 LR 	0.6919889502762431	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 SVM 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_missing_train	 LR 	0.6919889502762431	 w=None	 C=1.0
+one_ngram_missing_train	 SVM 	0.6947513812154696	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 LR 	0.6947513812154696	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 SVM 	0.7058011049723757	 w=None	 C=1.0
+one_ngram_train_df_3	 LR 	0.6919889502762431	 w=None	 C=1.0
+one_ngram_train_df_3	 SVM 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 SVM 	0.6947513812154696	 w=None	 C=1.0
+one_ngram_train_df	 LR 	0.6961325966850829	 w=None	 C=1.0
+one_ngram_train_df	 SVM 	0.6961325966850829	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 LR 	0.6947513812154696	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 SVM 	0.6947513812154696	 w=None	 C=1.0
+one_ngram_train_df2	 LR 	0.7002762430939227	 w=None	 C=1.0
+one_ngram_train_df2	 SVM 	0.7016574585635359	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 LR 	0.7002762430939227	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 SVM 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_missing_train	 LR 	0.6933701657458563	 w=None	 C=1.0
+one_ngram_missing_train	 SVM 	0.6906077348066298	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 SVM 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df_3	 LR 	0.7016574585635359	 w=None	 C=1.0
+one_ngram_train_df_3	 SVM 	0.7058011049723757	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 LR 	0.68646408839779	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 SVM 	0.6961325966850829	 w=None	 C=1.0
+one_ngram_train_df	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df	 SVM 	0.6850828729281768	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 SVM 	0.6850828729281768	 w=None	 C=1.0
+one_ngram_train_df2	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df2	 SVM 	0.6850828729281768	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 SVM 	0.6850828729281768	 w=None	 C=1.0
+one_ngram_missing_train	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_missing_train	 SVM 	0.6850828729281768	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 SVM 	0.6850828729281768	 w=None	 C=1.0
+one_ngram_train_df_3	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df_3	 SVM 	0.6850828729281768	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 SVM 	0.6850828729281768	 w=None	 C=1.0
+one_ngram_train_df	 LR 	0.6906077348066298	 w=None	 C=1.0
+one_ngram_train_df	 SVM 	0.6892265193370166	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 LR 	0.68646408839779	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 SVM 	0.7002762430939227	 w=None	 C=1.0
+one_ngram_train_df2	 LR 	0.6933701657458563	 w=None	 C=1.0
+one_ngram_train_df2	 SVM 	0.6933701657458563	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 LR 	0.6919889502762431	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 SVM 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_missing_train	 LR 	0.6961325966850829	 w=None	 C=1.0
+one_ngram_missing_train	 SVM 	0.7016574585635359	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 SVM 	0.6878453038674033	 w=None	 C=1.0
+one_ngram_train_df_3	 LR 	0.6947513812154696	 w=None	 C=1.0
+one_ngram_train_df_3	 SVM 	0.7002762430939227	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 LR 	0.7044198895027625	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 SVM 	0.6878453038674033	 w=None	 C=1.0
+one_ngram_train_df	 LR 	0.7044198895027625	 w=None	 C=1.0
+one_ngram_train_df	 SVM 	0.6961325966850829	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 LR 	0.7016574585635359	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 SVM 	0.7071823204419889	 w=None	 C=1.0
+one_ngram_train_df2	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df2	 SVM 	0.7016574585635359	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 LR 	0.7058011049723757	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 SVM 	0.7016574585635359	 w=None	 C=1.0
+one_ngram_missing_train	 LR 	0.7016574585635359	 w=None	 C=1.0
+one_ngram_missing_train	 SVM 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 LR 	0.7002762430939227	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 SVM 	0.6961325966850829	 w=None	 C=1.0
+one_ngram_train_df_3	 LR 	0.7044198895027625	 w=None	 C=1.0
+one_ngram_train_df_3	 SVM 	0.7085635359116023	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 LR 	0.7044198895027625	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 SVM 	0.7002762430939227	 w=None	 C=1.0
+one_ngram_train_df	 LR 	0.7044198895027625	 w=None	 C=1.0
+one_ngram_train_df	 SVM 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 LR 	0.7044198895027625	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 SVM 	0.7016574585635359	 w=None	 C=1.0
+one_ngram_train_df2	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df2	 SVM 	0.6919889502762431	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 LR 	0.7030386740331491	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 SVM 	0.6919889502762431	 w=None	 C=1.0
+one_ngram_missing_train	 LR 	0.7016574585635359	 w=None	 C=1.0
+one_ngram_missing_train	 SVM 	0.7030386740331491	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 LR 	0.7016574585635359	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 SVM 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df_3	 LR 	0.7030386740331491	 w=None	 C=1.0
+one_ngram_train_df_3	 SVM 	0.7030386740331491	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 LR 	0.7030386740331491	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 SVM 	0.6933701657458563	 w=None	 C=1.0
+one_ngram_train_df	 LR 	0.7058011049723757	 w=None	 C=1.0
+one_ngram_train_df	 SVM 	0.6767955801104972	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 LR 	0.7058011049723757	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 SVM 	0.6767955801104972	 w=None	 C=1.0
+one_ngram_train_df2	 LR 	0.7058011049723757	 w=None	 C=1.0
+one_ngram_train_df2	 SVM 	0.6767955801104972	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 LR 	0.7058011049723757	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 SVM 	0.6767955801104972	 w=None	 C=1.0
+one_ngram_missing_train	 LR 	0.7058011049723757	 w=None	 C=1.0
+one_ngram_missing_train	 SVM 	0.6767955801104972	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 LR 	0.7058011049723757	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 SVM 	0.6767955801104972	 w=None	 C=1.0
+one_ngram_train_df_3	 LR 	0.7058011049723757	 w=None	 C=1.0
+one_ngram_train_df_3	 SVM 	0.6767955801104972	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 LR 	0.7058011049723757	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 SVM 	0.6767955801104972	 w=None	 C=1.0
+one_ngram_train_df	 LR 	0.7044198895027625	 w=None	 C=1.0
+one_ngram_train_df	 SVM 	0.7044198895027625	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 SVM 	0.68646408839779	 w=None	 C=1.0
+one_ngram_train_df2	 LR 	0.7044198895027625	 w=None	 C=1.0
+one_ngram_train_df2	 SVM 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 LR 	0.7071823204419889	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 SVM 	0.7085635359116023	 w=None	 C=1.0
+one_ngram_missing_train	 LR 	0.7002762430939227	 w=None	 C=1.0
+one_ngram_missing_train	 SVM 	0.6947513812154696	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 LR 	0.6961325966850829	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 SVM 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df_3	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df_3	 SVM 	0.6961325966850829	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 LR 	0.7058011049723757	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 SVM 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df	 LR 	0.6878453038674033	 w=None	 C=1.0
+one_ngram_train_df	 SVM 	0.7071823204419889	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 LR 	0.6919889502762431	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 SVM 	0.7085635359116023	 w=None	 C=1.0
+one_ngram_train_df2	 LR 	0.6892265193370166	 w=None	 C=1.0
+one_ngram_train_df2	 SVM 	0.7071823204419889	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 LR 	0.6878453038674033	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 SVM 	0.7030386740331491	 w=None	 C=1.0
+one_ngram_missing_train	 LR 	0.68646408839779	 w=None	 C=1.0
+one_ngram_missing_train	 SVM 	0.7044198895027625	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 LR 	0.6892265193370166	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 SVM 	0.7071823204419889	 w=None	 C=1.0
+one_ngram_train_df_3	 LR 	0.6906077348066298	 w=None	 C=1.0
+one_ngram_train_df_3	 SVM 	0.7071823204419889	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 LR 	0.6878453038674033	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 SVM 	0.7071823204419889	 w=None	 C=1.0
+one_ngram_train_df	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df	 SVM 	0.7016574585635359	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 SVM 	0.7030386740331491	 w=None	 C=1.0
+one_ngram_train_df2	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df2	 SVM 	0.7030386740331491	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 LR 	0.7002762430939227	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 SVM 	0.6961325966850829	 w=None	 C=1.0
+one_ngram_missing_train	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_missing_train	 SVM 	0.7030386740331491	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 LR 	0.6961325966850829	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 SVM 	0.6919889502762431	 w=None	 C=1.0
+one_ngram_train_df_3	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df_3	 SVM 	0.7016574585635359	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 SVM 	0.7085635359116023	 w=None	 C=1.0
+one_ngram_train_df	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df	 SVM 	0.6906077348066298	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 SVM 	0.6906077348066298	 w=None	 C=1.0
+one_ngram_train_df2	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df2	 SVM 	0.6906077348066298	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 SVM 	0.6906077348066298	 w=None	 C=1.0
+one_ngram_missing_train	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_missing_train	 SVM 	0.6906077348066298	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 SVM 	0.6906077348066298	 w=None	 C=1.0
+one_ngram_train_df_3	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df_3	 SVM 	0.6906077348066298	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 SVM 	0.6906077348066298	 w=None	 C=1.0
+one_ngram_train_df	 LR 	0.7002762430939227	 w=None	 C=1.0
+one_ngram_train_df	 SVM 	0.7044198895027625	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 LR 	0.7030386740331491	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 SVM 	0.6933701657458563	 w=None	 C=1.0
+one_ngram_train_df2	 LR 	0.7030386740331491	 w=None	 C=1.0
+one_ngram_train_df2	 SVM 	0.6947513812154696	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 LR 	0.7030386740331491	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 SVM 	0.7071823204419889	 w=None	 C=1.0
+one_ngram_missing_train	 LR 	0.7030386740331491	 w=None	 C=1.0
+one_ngram_missing_train	 SVM 	0.6947513812154696	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 SVM 	0.6947513812154696	 w=None	 C=1.0
+one_ngram_train_df_3	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df_3	 SVM 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 SVM 	0.7030386740331491	 w=None	 C=1.0
+one_ngram_train_df	 LR 	0.6961325966850829	 w=None	 C=1.0
+one_ngram_train_df	 SVM 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 LR 	0.7002762430939227	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 SVM 	0.68646408839779	 w=None	 C=1.0
+one_ngram_train_df2	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df2	 SVM 	0.6961325966850829	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 SVM 	0.6906077348066298	 w=None	 C=1.0
+one_ngram_missing_train	 LR 	0.7016574585635359	 w=None	 C=1.0
+one_ngram_missing_train	 SVM 	0.6947513812154696	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 SVM 	0.6961325966850829	 w=None	 C=1.0
+one_ngram_train_df_3	 LR 	0.6947513812154696	 w=None	 C=1.0
+one_ngram_train_df_3	 SVM 	0.68646408839779	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 SVM 	0.6933701657458563	 w=None	 C=1.0
+one_ngram_train_df	 LR 	0.6947513812154696	 w=None	 C=1.0
+one_ngram_train_df	 SVM 	0.6933701657458563	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 SVM 	0.7016574585635359	 w=None	 C=1.0
+one_ngram_train_df2	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_train_df2	 SVM 	0.6961325966850829	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 LR 	0.6947513812154696	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 SVM 	0.6906077348066298	 w=None	 C=1.0
+one_ngram_missing_train	 LR 	0.6961325966850829	 w=None	 C=1.0
+one_ngram_missing_train	 SVM 	0.7030386740331491	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 SVM 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df_3	 LR 	0.7002762430939227	 w=None	 C=1.0
+one_ngram_train_df_3	 SVM 	0.7085635359116023	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 SVM 	0.6961325966850829	 w=None	 C=1.0
+one_ngram_train_df	 LR 	0.6892265193370166	 w=None	 C=1.0
+one_ngram_train_df	 SVM 	0.6823204419889503	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 LR 	0.6892265193370166	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 SVM 	0.6823204419889503	 w=None	 C=1.0
+one_ngram_train_df2	 LR 	0.6892265193370166	 w=None	 C=1.0
+one_ngram_train_df2	 SVM 	0.6823204419889503	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 LR 	0.6892265193370166	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 SVM 	0.6823204419889503	 w=None	 C=1.0
+one_ngram_missing_train	 LR 	0.6892265193370166	 w=None	 C=1.0
+one_ngram_missing_train	 SVM 	0.6823204419889503	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 LR 	0.6892265193370166	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 SVM 	0.6823204419889503	 w=None	 C=1.0
+one_ngram_train_df_3	 LR 	0.6892265193370166	 w=None	 C=1.0
+one_ngram_train_df_3	 SVM 	0.6823204419889503	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 LR 	0.6892265193370166	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 SVM 	0.6823204419889503	 w=None	 C=1.0
+one_ngram_train_df	 LR 	0.6947513812154696	 w=None	 C=1.0
+one_ngram_train_df	 SVM 	0.6947513812154696	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df_no_outliers	 SVM 	0.6933701657458563	 w=None	 C=1.0
+one_ngram_train_df2	 LR 	0.6947513812154696	 w=None	 C=1.0
+one_ngram_train_df2	 SVM 	0.6933701657458563	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_train_df2_no_outliers	 SVM 	0.6947513812154696	 w=None	 C=1.0
+one_ngram_missing_train	 LR 	0.6975138121546961	 w=None	 C=1.0
+one_ngram_missing_train	 SVM 	0.7071823204419889	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 LR 	0.6988950276243094	 w=None	 C=1.0
+one_ngram_missing_train_df_no_outliers	 SVM 	0.7030386740331491	 w=None	 C=1.0
+one_ngram_train_df_3	 LR 	0.7002762430939227	 w=None	 C=1.0
+one_ngram_train_df_3	 SVM 	0.7044198895027625	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 LR 	0.6961325966850829	 w=None	 C=1.0
+one_ngram_train_df3_no_outliers	 SVM 	0.6947513812154696	 w=None	 C=1.0
+one_ngram_train_df	 LR 	0.6892265193370166	 w={0: 1, 1: 1}	 C=1.5
+one_ngram_train_df_no_outliers	 LR 	0.6878453038674033	 w={0: 1, 1: 1}	 C=1.5
+one_ngram_train_df2	 LR 	0.68646408839779	 w={0: 0.5, 1: 0.5}	 C=5
+one_ngram_train_df2_no_outliers	 LR 	0.6823204419889503	 w={0: 50, 1: 50}	 C=0.1
+one_ngram_missing_train	 LR 	0.6850828729281768	 w={0: 1, 1: 1}	 C=2
+one_ngram_missing_train_df_no_outliers	 LR 	0.6823204419889503	 w={0: 50, 1: 50}	 C=0.1
+one_ngram_train_df_3	 LR 	0.6823204419889503	 w={0: 50, 1: 50}	 C=0.1
+one_ngram_train_df3_no_outliers	 LR 	0.6795580110497238	 w={0: 50, 1: 50}	 C=0.1
+one_ngram_train_df	 SVM 	0.6947513812154696	 w={0: 50, 1: 50}	 C=10
+one_ngram_train_df_no_outliers	 SVM 	0.7140883977900553	 w={0: 50, 1: 50}	 C=10
+one_ngram_train_df	 SVM 	0.6933701657458563	 w={0: 50, 1: 50}	 C=10
+one_ngram_train_df_no_outliers	 SVM 	0.6961325966850829	 w={0: 50, 1: 50}	 C=10
+one_ngram_train_df2	 SVM 	0.6933701657458563	 w={0: 50, 1: 50}	 C=10
+one_ngram_train_df2_no_outliers	 SVM 	0.6988950276243094	 w={0: 50, 1: 50}	 C=10
+one_ngram_missing_train	 SVM 	0.6975138121546961	 w={0: 50, 1: 50}	 C=10
+one_ngram_missing_train_df_no_outliers	 SVM 	0.7085635359116023	 w={0: 50, 1: 50}	 C=10
+one_ngram_train_df_3	 SVM 	0.6906077348066298	 w={0: 50, 1: 50}	 C=10
+one_ngram_train_df3_no_outliers	 SVM 	0.7016574585635359	 w={0: 50, 1: 50}	 C=10
+one_ngram_train_df	 LR 	0.6878453038674033	 w={0: 50, 1: 50}	 C=5
+one_ngram_train_df_no_outliers	 LR 	0.6850828729281768	 w={0: 50, 1: 50}	 C=1.5
+one_ngram_train_df2	 LR 	0.6781767955801105	 w={0: 50, 1: 50}	 C=2
+one_ngram_train_df2_no_outliers	 LR 	0.6961325966850829	 w={0: 50, 1: 50}	 C=1.5
+one_ngram_missing_train	 LR 	0.6850828729281768	 w={0: 50, 1: 50}	 C=1.5
+one_ngram_missing_train_df_no_outliers	 LR 	0.6781767955801105	 w={0: 50, 1: 50}	 C=1.5
+one_ngram_train_df_3	 LR 	0.6892265193370166	 w={0: 50, 1: 50}	 C=0.5
+one_ngram_train_df3_no_outliers	 LR 	0.6850828729281768	 w={0: 50, 1: 50}	 C=1
+one_ngram_train_df	 LR 	0.6795580110497238	 w={0: 1, 1: 1}	 C=1
+one_ngram_train_df_no_outliers	 LR 	0.6837016574585635	 w={0: 1, 1: 1}	 C=1
+one_ngram_train_df2	 LR 	0.6961325966850829	 w={0: 4, 1: 3}	 C=10
+one_ngram_train_df2_no_outliers	 LR 	0.6823204419889503	 w={0: 1, 1: 1}	 C=1.5
+one_ngram_missing_train	 LR 	0.6947513812154696	 w={0: 4, 1: 3}	 C=5
+one_ngram_missing_train_df_no_outliers	 LR 	0.6823204419889503	 w={0: 0.5, 1: 0.5}	 C=1.5
+one_ngram_train_df_3	 LR 	0.6961325966850829	 w={0: 4, 1: 3}	 C=10
+one_ngram_train_df3_no_outliers	 LR 	0.6823204419889503	 w={0: 0.5, 1: 0.5}	 C=1.5
+one_ngram_train_df	 LR 	0.68646408839779	 w={0: 50, 1: 50}	 C=1.5
+one_ngram_train_df_no_outliers	 LR 	0.68646408839779	 w={0: 50, 1: 50}	 C=5
+one_ngram_train_df2	 LR 	0.6850828729281768	 w={0: 50, 1: 50}	 C=1
+one_ngram_train_df2_no_outliers	 LR 	0.6878453038674033	 w={0: 50, 1: 50}	 C=0.1
+one_ngram_missing_train	 LR 	0.68646408839779	 w={0: 50, 1: 50}	 C=2
+one_ngram_missing_train_df_no_outliers	 LR 	0.68646408839779	 w={0: 50, 1: 50}	 C=1
+one_ngram_train_df_3	 LR 	0.6878453038674033	 w={0: 50, 1: 50}	 C=0.5
+one_ngram_train_df3_no_outliers	 LR 	0.6878453038674033	 w={0: 1, 1: 1}	 C=10
+one_ngram_train_df	 LR 	0.68646408839779	 w={0: 50, 1: 50}	 C=2
+one_ngram_train_df_no_outliers	 LR 	0.6878453038674033	 w={0: 50, 1: 50}	 C=0.5
+one_ngram_train_df2	 LR 	0.6823204419889503	 w={0: 50, 1: 50}	 C=1.5
+one_ngram_train_df2_no_outliers	 LR 	0.68646408839779	 w={0: 1, 1: 1}	 C=10
+one_ngram_missing_train	 LR 	0.68646408839779	 w={0: 50, 1: 50}	 C=0.5
+one_ngram_missing_train_df_no_outliers	 LR 	0.68646408839779	 w={0: 50, 1: 50}	 C=0.5
+one_ngram_train_df_3	 LR 	0.6823204419889503	 w={0: 50, 1: 50}	 C=1.5
+one_ngram_train_df3_no_outliers	 LR 	0.6906077348066298	 w={0: 1, 1: 1}	 C=10
