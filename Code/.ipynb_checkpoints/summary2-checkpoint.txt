@@ -1,0 +1,1807 @@
+Alltrain_df3	 LR 	0.6933701657458563	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6837016574585635	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6823204419889503	 w=None	 C=1.0
+Alltop6	 LR 	0.7002762430939227	 w=None	 C=1.0
+Alltop6	 SVM 	0.6947513812154696	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6892265193370166	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop10	 LR 	0.7016574585635359	 w=None	 C=1.0
+Alltop10	 SVM 	0.7030386740331491	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6892265193370166	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7085635359116023	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6823204419889503	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltop6	 LR 	0.7002762430939227	 w=None	 C=1.0
+Alltop6	 SVM 	0.7002762430939227	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6906077348066298	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6850828729281768	 w=None	 C=1.0
+Alltop10	 LR 	0.6933701657458563	 w=None	 C=1.0
+Alltop10	 SVM 	0.7058011049723757	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.68646408839779	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6850828729281768	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7085635359116023	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7113259668508287	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6795580110497238	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop6	 LR 	0.7085635359116023	 w=None	 C=1.0
+Alltop6	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6878453038674033	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.680939226519337	 w=None	 C=1.0
+Alltop10	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltop10	 SVM 	0.7058011049723757	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6975138121546961	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7058011049723757	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.680939226519337	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.680939226519337	 w=None	 C=1.0
+Alltop6	 LR 	0.6975138121546961	 w=None	 C=1.0
+Alltop6	 SVM 	0.6961325966850829	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.68646408839779	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6850828729281768	 w=None	 C=1.0
+Alltop10	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltop10	 SVM 	0.7030386740331491	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6850828729281768	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7016574585635359	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6988950276243094	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6781767955801105	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6878453038674033	 w=None	 C=1.0
+Alltop6	 LR 	0.7058011049723757	 w=None	 C=1.0
+Alltop6	 SVM 	0.7002762430939227	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6892265193370166	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop10	 LR 	0.7002762430939227	 w=None	 C=1.0
+Alltop10	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6850828729281768	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6906077348066298	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6933701657458563	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.680939226519337	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6878453038674033	 w=None	 C=1.0
+Alltop6	 LR 	0.6892265193370166	 w=None	 C=1.0
+Alltop6	 SVM 	0.6906077348066298	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.680939226519337	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6850828729281768	 w=None	 C=1.0
+Alltop10	 LR 	0.6919889502762431	 w=None	 C=1.0
+Alltop10	 SVM 	0.6781767955801105	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6878453038674033	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6919889502762431	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6629834254143646	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.680939226519337	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6878453038674033	 w=None	 C=1.0
+Alltop6	 LR 	0.6933701657458563	 w=None	 C=1.0
+Alltop6	 SVM 	0.6975138121546961	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6823204419889503	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltop10	 LR 	0.68646408839779	 w=None	 C=1.0
+Alltop10	 SVM 	0.6906077348066298	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.68646408839779	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6850828729281768	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7071823204419889	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6795580110497238	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6795580110497238	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6823204419889503	 w=None	 C=1.0
+Alltop6	 LR 	0.7002762430939227	 w=None	 C=1.0
+Alltop6	 SVM 	0.6961325966850829	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6892265193370166	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop10	 LR 	0.6933701657458563	 w=None	 C=1.0
+Alltop10	 SVM 	0.7085635359116023	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.68646408839779	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6906077348066298	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6781767955801105	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6767955801104972	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltop6	 LR 	0.7016574585635359	 w=None	 C=1.0
+Alltop6	 SVM 	0.7002762430939227	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6906077348066298	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltop10	 LR 	0.6961325966850829	 w=None	 C=1.0
+Alltop10	 SVM 	0.6961325966850829	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6878453038674033	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7030386740331491	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6988950276243094	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.680939226519337	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6850828729281768	 w=None	 C=1.0
+Alltop6	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltop6	 SVM 	0.7002762430939227	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.68646408839779	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop10	 LR 	0.6892265193370166	 w=None	 C=1.0
+Alltop10	 SVM 	0.6975138121546961	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6837016574585635	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6878453038674033	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7016574585635359	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.680939226519337	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop6	 LR 	0.6961325966850829	 w=None	 C=1.0
+Alltop6	 SVM 	0.6988950276243094	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6878453038674033	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop10	 LR 	0.6975138121546961	 w=None	 C=1.0
+Alltop10	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6892265193370166	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6823204419889503	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6919889502762431	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6795580110497238	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6878453038674033	 w=None	 C=1.0
+Alltop6	 LR 	0.6933701657458563	 w=None	 C=1.0
+Alltop6	 SVM 	0.6988950276243094	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6892265193370166	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltop10	 LR 	0.6975138121546961	 w=None	 C=1.0
+Alltop10	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6837016574585635	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.680939226519337	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6878453038674033	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6795580110497238	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6878453038674033	 w=None	 C=1.0
+Alltop6	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltop6	 SVM 	0.6947513812154696	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6892265193370166	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop10	 LR 	0.6961325966850829	 w=None	 C=1.0
+Alltop10	 SVM 	0.6961325966850829	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6837016574585635	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6892265193370166	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6975138121546961	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6919889502762431	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6823204419889503	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6781767955801105	 w=None	 C=1.0
+Alltop6	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltop6	 SVM 	0.7002762430939227	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6878453038674033	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltop10	 LR 	0.6933701657458563	 w=None	 C=1.0
+Alltop10	 SVM 	0.6961325966850829	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6850828729281768	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6892265193370166	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6961325966850829	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.680939226519337	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6823204419889503	 w=None	 C=1.0
+Alltop6	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltop6	 SVM 	0.7002762430939227	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6892265193370166	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop10	 LR 	0.6933701657458563	 w=None	 C=1.0
+Alltop10	 SVM 	0.6947513812154696	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6878453038674033	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6878453038674033	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6878453038674033	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6961325966850829	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6795580110497238	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltop6	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltop6	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6878453038674033	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6850828729281768	 w=None	 C=1.0
+Alltop10	 LR 	0.6961325966850829	 w=None	 C=1.0
+Alltop10	 SVM 	0.7002762430939227	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6837016574585635	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7058011049723757	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6823204419889503	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.680939226519337	 w=None	 C=1.0
+Alltop6	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltop6	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6878453038674033	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop10	 LR 	0.7002762430939227	 w=None	 C=1.0
+Alltop10	 SVM 	0.7002762430939227	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6823204419889503	 w=None	 C=1.0
+Alltop6	 LR 	0.6975138121546961	 w=None	 C=1.0
+Alltop6	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6878453038674033	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6823204419889503	 w=None	 C=1.0
+Alltop10	 LR 	0.6919889502762431	 w=None	 C=1.0
+Alltop10	 SVM 	0.6988950276243094	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6961325966850829	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6919889502762431	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6795580110497238	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.680939226519337	 w=None	 C=1.0
+Alltop6	 LR 	0.6961325966850829	 w=None	 C=1.0
+Alltop6	 SVM 	0.7058011049723757	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.68646408839779	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltop10	 LR 	0.6975138121546961	 w=None	 C=1.0
+Alltop10	 SVM 	0.7002762430939227	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6850828729281768	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6919889502762431	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.664364640883978	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6795580110497238	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltop6	 LR 	0.7030386740331491	 w=None	 C=1.0
+Alltop6	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.68646408839779	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6850828729281768	 w=None	 C=1.0
+Alltop10	 LR 	0.6919889502762431	 w=None	 C=1.0
+Alltop10	 SVM 	0.6975138121546961	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6878453038674033	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6878453038674033	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6933701657458563	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6781767955801105	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6823204419889503	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6781767955801105	 w=None	 C=1.0
+Alltop6	 LR 	0.6975138121546961	 w=None	 C=1.0
+Alltop6	 SVM 	0.7030386740331491	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.68646408839779	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop10	 LR 	0.6919889502762431	 w=None	 C=1.0
+Alltop10	 SVM 	0.6975138121546961	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.68646408839779	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6892265193370166	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6823204419889503	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6795580110497238	 w=None	 C=1.0
+Alltop6	 LR 	0.6906077348066298	 w=None	 C=1.0
+Alltop6	 SVM 	0.6988950276243094	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.68646408839779	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltop10	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltop10	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6878453038674033	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6519337016574586	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6450276243093923	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6823204419889503	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6878453038674033	 w=None	 C=1.0
+Alltop6	 LR 	0.6767955801104972	 w=None	 C=1.0
+Alltop6	 SVM 	0.6560773480662984	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6767955801104972	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6823204419889503	 w=None	 C=1.0
+Alltop10	 LR 	0.680939226519337	 w=None	 C=1.0
+Alltop10	 SVM 	0.669889502762431	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6795580110497238	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7030386740331491	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6795580110497238	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6823204419889503	 w=None	 C=1.0
+Alltop6	 LR 	0.7016574585635359	 w=None	 C=1.0
+Alltop6	 SVM 	0.7002762430939227	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6850828729281768	 w=None	 C=1.0
+Alltop10	 LR 	0.6919889502762431	 w=None	 C=1.0
+Alltop10	 SVM 	0.7085635359116023	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6878453038674033	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6878453038674033	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6975138121546961	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7002762430939227	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6823204419889503	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop6	 LR 	0.6961325966850829	 w=None	 C=1.0
+Alltop6	 SVM 	0.6919889502762431	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6850828729281768	 w=None	 C=1.0
+Alltop10	 LR 	0.6933701657458563	 w=None	 C=1.0
+Alltop10	 SVM 	0.6947513812154696	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6975138121546961	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.680939226519337	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6850828729281768	 w=None	 C=1.0
+Alltop6	 LR 	0.7002762430939227	 w=None	 C=1.0
+Alltop6	 SVM 	0.7002762430939227	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.68646408839779	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop10	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltop10	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6961325966850829	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6781767955801105	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6850828729281768	 w=None	 C=1.0
+Alltop6	 LR 	0.7002762430939227	 w=None	 C=1.0
+Alltop6	 SVM 	0.6961325966850829	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6823204419889503	 w=None	 C=1.0
+Alltop10	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltop10	 SVM 	0.7085635359116023	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6892265193370166	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7030386740331491	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7099447513812155	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.680939226519337	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6823204419889503	 w=None	 C=1.0
+Alltop6	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltop6	 SVM 	0.6961325966850829	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.68646408839779	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop10	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltop10	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6906077348066298	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.712707182320442	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7140883977900553	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6781767955801105	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6850828729281768	 w=None	 C=1.0
+Alltop6	 LR 	0.7071823204419889	 w=None	 C=1.0
+Alltop6	 SVM 	0.7030386740331491	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6878453038674033	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6823204419889503	 w=None	 C=1.0
+Alltop10	 LR 	0.6975138121546961	 w=None	 C=1.0
+Alltop10	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6837016574585635	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6850828729281768	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7099447513812155	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7113259668508287	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6795580110497238	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop6	 LR 	0.7030386740331491	 w=None	 C=1.0
+Alltop6	 SVM 	0.6975138121546961	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6878453038674033	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop10	 LR 	0.6906077348066298	 w=None	 C=1.0
+Alltop10	 SVM 	0.7030386740331491	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.68646408839779	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6850828729281768	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7085635359116023	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.680939226519337	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6823204419889503	 w=None	 C=1.0
+Alltop6	 LR 	0.7002762430939227	 w=None	 C=1.0
+Alltop6	 SVM 	0.7002762430939227	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6878453038674033	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6850828729281768	 w=None	 C=1.0
+Alltop10	 LR 	0.6975138121546961	 w=None	 C=1.0
+Alltop10	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.68646408839779	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6878453038674033	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7002762430939227	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6947513812154696	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6671270718232044	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6781767955801105	 w=None	 C=1.0
+Alltop6	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltop6	 SVM 	0.6933701657458563	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.5497237569060773	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6892265193370166	 w=None	 C=1.0
+Alltop10	 LR 	0.6961325966850829	 w=None	 C=1.0
+Alltop10	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6533149171270718	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6602209944751382	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6395027624309392	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6767955801104972	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6850828729281768	 w=None	 C=1.0
+Alltop6	 LR 	0.6519337016574586	 w=None	 C=1.0
+Alltop6	 SVM 	0.6091160220994475	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.675414364640884	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6823204419889503	 w=None	 C=1.0
+Alltop10	 LR 	0.6450276243093923	 w=None	 C=1.0
+Alltop10	 SVM 	0.6146408839779005	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6823204419889503	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6823204419889503	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6947513812154696	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6823204419889503	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6892265193370166	 w=None	 C=1.0
+Alltop6	 LR 	0.6892265193370166	 w=None	 C=1.0
+Alltop6	 SVM 	0.6671270718232044	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6878453038674033	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop10	 LR 	0.6892265193370166	 w=None	 C=1.0
+Alltop10	 SVM 	0.669889502762431	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.68646408839779	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7113259668508287	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6961325966850829	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6795580110497238	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6850828729281768	 w=None	 C=1.0
+Alltop6	 LR 	0.6961325966850829	 w=None	 C=1.0
+Alltop6	 SVM 	0.6906077348066298	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6740331491712708	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.680939226519337	 w=None	 C=1.0
+Alltop10	 LR 	0.6906077348066298	 w=None	 C=1.0
+Alltop10	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6823204419889503	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6850828729281768	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6961325966850829	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.680939226519337	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.680939226519337	 w=None	 C=1.0
+Alltop6	 LR 	0.7044198895027625	 w=None	 C=1.0
+Alltop6	 SVM 	0.6961325966850829	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6740331491712708	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.680939226519337	 w=None	 C=1.0
+Alltop10	 LR 	0.7002762430939227	 w=None	 C=1.0
+Alltop10	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6837016574585635	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6726519337016574	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6395027624309392	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6795580110497238	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6892265193370166	 w=None	 C=1.0
+Alltop6	 LR 	0.6823204419889503	 w=None	 C=1.0
+Alltop6	 SVM 	0.6850828729281768	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6892265193370166	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6878453038674033	 w=None	 C=1.0
+Alltop10	 LR 	0.680939226519337	 w=None	 C=1.0
+Alltop10	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6878453038674033	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.680939226519337	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6795580110497238	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6850828729281768	 w=None	 C=1.0
+Alltop6	 LR 	0.6961325966850829	 w=None	 C=1.0
+Alltop6	 SVM 	0.6947513812154696	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6892265193370166	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop10	 LR 	0.7002762430939227	 w=None	 C=1.0
+Alltop10	 SVM 	0.6975138121546961	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6892265193370166	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.680939226519337	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop6	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltop6	 SVM 	0.6933701657458563	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6795580110497238	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6795580110497238	 w=None	 C=1.0
+Alltop10	 LR 	0.7030386740331491	 w=None	 C=1.0
+Alltop10	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6933701657458563	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6795580110497238	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop6	 LR 	0.7030386740331491	 w=None	 C=1.0
+Alltop6	 SVM 	0.6975138121546961	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6878453038674033	 w=None	 C=1.0
+Alltop10	 LR 	0.7016574585635359	 w=None	 C=1.0
+Alltop10	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.68646408839779	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6878453038674033	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.68646408839779	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.680939226519337	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6823204419889503	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6823204419889503	 w=None	 C=1.0
+Alltop6	 LR 	0.7002762430939227	 w=None	 C=1.0
+Alltop6	 SVM 	0.7030386740331491	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6892265193370166	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6823204419889503	 w=None	 C=1.0
+Alltop10	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltop10	 SVM 	0.6961325966850829	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6878453038674033	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6906077348066298	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7113259668508287	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.680939226519337	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltop6	 LR 	0.7002762430939227	 w=None	 C=1.0
+Alltop6	 SVM 	0.6988950276243094	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6892265193370166	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltop10	 LR 	0.7002762430939227	 w=None	 C=1.0
+Alltop10	 SVM 	0.7085635359116023	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6878453038674033	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6892265193370166	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.5041436464088398	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.680939226519337	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6850828729281768	 w=None	 C=1.0
+Alltop6	 LR 	0.6560773480662984	 w=None	 C=1.0
+Alltop6	 SVM 	0.5718232044198895	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.675414364640884	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6795580110497238	 w=None	 C=1.0
+Alltop10	 LR 	0.6906077348066298	 w=None	 C=1.0
+Alltop10	 SVM 	0.606353591160221	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6837016574585635	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6823204419889503	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.5897790055248618	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.5027624309392266	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.680939226519337	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6850828729281768	 w=None	 C=1.0
+Alltop6	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltop6	 SVM 	0.5483425414364641	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.675414364640884	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6795580110497238	 w=None	 C=1.0
+Alltop10	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltop10	 SVM 	0.5524861878453039	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6823204419889503	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6823204419889503	 w=None	 C=1.0
+simpletrain_df3	Index(['cosine_similarity_score', 'length_similarity', 'overlap_score',
+       'overlap2_score', 'cosine/length_ratio', 'cosine_similarity_score2',
+       'jaccard_similarity_score', 'lemma_jaccard_score', 'overall_sim_score',
+       'jaccard_distance_bigrams', 'cosine_similarity_bigrams',
+       'bigram_similarity', 'jaccard_distance_trigrams',
+       'cosine_similarity_trigrams', 'trigram_similarity',
+       'jaccard_distance_quadgrams', 'cosine_similarity_quadgrams',
+       'quadgram_similarity', 'overall_similarity_path_semantic',
+       'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic'],
+      dtype='object')	 LR 	0.6339779005524862	dict_keys(['lemma_jaccard_score', 'overall_sim_score', 'overlap2_score', 'overlap_score', 'trigram_similarity'])	 w=None	 C=1.0
+simpletrain_df3	 SVM 	0.5566298342541437	 w=None
+simpletrain_df3	Index(['cosine_similarity_score', 'length_similarity', 'overlap_score',
+       'overlap2_score', 'cosine/length_ratio', 'cosine_similarity_score2',
+       'jaccard_similarity_score', 'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'jaccard_distance_bigrams',
+       'cosine_similarity_bigrams', 'bigram_similarity',
+       'jaccard_distance_trigrams', 'cosine_similarity_trigrams',
+       'trigram_similarity', 'jaccard_distance_quadgrams',
+       'cosine_similarity_quadgrams', 'quadgram_similarity'],
+      dtype='object')	 LR 	0.6160220994475138	dict_keys(['lemma_jaccard_score', 'overall_sim_score', 'cosine_similarity_trigrams', 'cosine/length_ratio', 'overlap_score'])	 w=None	 C=1.0
+simpletrain_df3	 SVM 	0.5704419889502762	 w=None
+simpletrain_df3_removed	Index(['cosine_similarity_score', 'length_similarity', 'overlap_score',
+       'overlap2_score', 'cosine/length_ratio', 'cosine_similarity_score2',
+       'jaccard_similarity_score', 'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'jaccard_distance_bigrams',
+       'cosine_similarity_bigrams', 'bigram_similarity',
+       'jaccard_distance_trigrams', 'cosine_similarity_trigrams',
+       'trigram_similarity', 'jaccard_distance_quadgrams',
+       'cosine_similarity_quadgrams', 'quadgram_similarity'],
+      dtype='object')	 LR 	0.6781767955801105	dict_keys(['lemma_jaccard_score', 'jaccard_similarity_score', 'cosine/length_ratio', 'overall_sim_score', 'cosine_similarity_score'])	 w=None	 C=1.0
+simpletrain_df3_removed	 SVM 	0.6850828729281768	 w=None
+simpletop6	Index(['lemma_jaccard_score', 'overall_sim_score', 'cosine/length_ratio',
+       'cosine_similarity_trigrams', 'jaccard_similarity_score',
+       'overlap_score'],
+      dtype='object')	 LR 	0.6174033149171271	dict_keys(['lemma_jaccard_score', 'overall_sim_score', 'cosine_similarity_trigrams', 'cosine/length_ratio', 'overlap_score'])	 w=None	 C=1.0
+simpletop6	 SVM 	0.5925414364640884	 w=None
+simpletop6_no_outliers	Index(['lemma_jaccard_score', 'overall_sim_score', 'cosine/length_ratio',
+       'cosine_similarity_trigrams', 'jaccard_similarity_score',
+       'overlap_score'],
+      dtype='object')	 LR 	0.675414364640884	dict_keys(['lemma_jaccard_score', 'jaccard_similarity_score', 'cosine/length_ratio', 'cosine_similarity_trigrams', 'overall_sim_score'])	 w=None	 C=1.0
+simpletop6_no_outliers	 SVM 	0.6837016574585635	 w=None
+simpletop10	Index(['lemma_jaccard_score', 'overall_sim_score', 'cosine/length_ratio',
+       'cosine_similarity_trigrams', 'jaccard_similarity_score',
+       'overlap_score', 'overlap2_score',
+       'overall_similarity_combined_semantic', 'jaccard_distance_bigrams',
+       'trigram_similarity'],
+      dtype='object')	 LR 	0.6270718232044199	dict_keys(['lemma_jaccard_score', 'overall_sim_score', 'cosine_similarity_trigrams', 'overlap_score', 'trigram_similarity'])	 w=None	 C=1.0
+simpletop10	 SVM 	0.5828729281767956	 w=None
+simpletop10_no_outliers	Index(['lemma_jaccard_score', 'overall_sim_score', 'cosine/length_ratio',
+       'cosine_similarity_trigrams', 'jaccard_similarity_score',
+       'overlap_score', 'overlap2_score',
+       'overall_similarity_combined_semantic', 'jaccard_distance_bigrams',
+       'trigram_similarity'],
+      dtype='object')	 LR 	0.6823204419889503	dict_keys(['lemma_jaccard_score', 'cosine/length_ratio', 'jaccard_similarity_score', 'overall_sim_score', 'cosine_similarity_trigrams'])	 w=None	 C=1.0
+simpletop10_no_outliers	 SVM 	0.680939226519337	 w=None
+simpletrain_df3	Index(['cosine_similarity_score', 'length_similarity', 'overlap_score',
+       'overlap2_score', 'cosine/length_ratio', 'cosine_similarity_score2',
+       'jaccard_similarity_score', 'lemma_jaccard_score', 'overall_sim_score',
+       'jaccard_distance_bigrams', 'cosine_similarity_bigrams',
+       'bigram_similarity', 'jaccard_distance_trigrams',
+       'cosine_similarity_trigrams', 'trigram_similarity',
+       'jaccard_distance_quadgrams', 'cosine_similarity_quadgrams',
+       'quadgram_similarity', 'overall_similarity_path_semantic',
+       'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic'],
+      dtype='object')	 LR 	0.6339779005524862	dict_keys(['lemma_jaccard_score', 'overall_sim_score', 'overlap2_score', 'overlap_score', 'trigram_similarity'])	 w=None	 C=1.0
+simpletrain_df3	 SVM 	0.5566298342541437	 w=None
+simpletrain_df3_removed	Index(['cosine_similarity_score', 'length_similarity', 'overlap_score',
+       'overlap2_score', 'cosine/length_ratio', 'cosine_similarity_score2',
+       'jaccard_similarity_score', 'lemma_jaccard_score', 'overall_sim_score',
+       'jaccard_distance_bigrams', 'cosine_similarity_bigrams',
+       'bigram_similarity', 'jaccard_distance_trigrams',
+       'cosine_similarity_trigrams', 'trigram_similarity',
+       'jaccard_distance_quadgrams', 'cosine_similarity_quadgrams',
+       'quadgram_similarity', 'overall_similarity_path_semantic',
+       'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic'],
+      dtype='object')	 LR 	0.675414364640884	dict_keys(['lemma_jaccard_score', 'overall_sim_score', 'overlap2_score', 'jaccard_similarity_score', 'cosine/length_ratio'])	 w=None	 C=1.0
+simpletrain_df3_removed	 SVM 	0.6781767955801105	 w=None
+simpletop6	Index(['lemma_jaccard_score', 'overall_sim_score', 'cosine/length_ratio',
+       'cosine_similarity_trigrams', 'jaccard_similarity_score',
+       'overlap_score'],
+      dtype='object')	 LR 	0.6339779005524862	dict_keys(['lemma_jaccard_score', 'overall_sim_score', 'cosine_similarity_trigrams', 'cosine/length_ratio', 'overlap_score'])	 w=None	 C=1.0
+simpletop6	 SVM 	0.585635359116022	 w=None
+simpletop6_no_outliers	Index(['lemma_jaccard_score', 'overall_sim_score', 'cosine/length_ratio',
+       'cosine_similarity_trigrams', 'jaccard_similarity_score',
+       'overlap_score'],
+      dtype='object')	 LR 	0.6837016574585635	dict_keys(['lemma_jaccard_score', 'overall_sim_score', 'jaccard_similarity_score', 'cosine/length_ratio', 'cosine_similarity_trigrams'])	 w=None	 C=1.0
+simpletop6_no_outliers	 SVM 	0.6837016574585635	 w=None
+simpletop10	Index(['lemma_jaccard_score', 'overall_sim_score', 'cosine/length_ratio',
+       'cosine_similarity_trigrams', 'jaccard_similarity_score',
+       'overlap_score', 'overlap2_score', 'jaccard_distance_bigrams',
+       'trigram_similarity', 'overall_similarity_combined_semantic'],
+      dtype='object')	 LR 	0.6367403314917127	dict_keys(['lemma_jaccard_score', 'overall_sim_score', 'trigram_similarity', 'overlap2_score', 'cosine_similarity_trigrams'])	 w=None	 C=1.0
+simpletop10	 SVM 	0.580110497237569	 w=None
+simpletop10_no_outliers	Index(['lemma_jaccard_score', 'overall_sim_score', 'cosine/length_ratio',
+       'cosine_similarity_trigrams', 'jaccard_similarity_score',
+       'overlap_score', 'overlap2_score', 'jaccard_distance_bigrams',
+       'trigram_similarity', 'overall_similarity_combined_semantic'],
+      dtype='object')	 LR 	0.669889502762431	dict_keys(['lemma_jaccard_score', 'overall_sim_score', 'overlap2_score', 'cosine/length_ratio', 'jaccard_similarity_score'])	 w=None	 C=1.0
+simpletop10_no_outliers	 SVM 	0.6767955801104972	 w=None
+Alltrain_df3	 LR 	0.68646408839779	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7140883977900553	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltop6	 LR 	0.6933701657458563	 w=None	 C=1.0
+Alltop6	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6823204419889503	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltop10	 LR 	0.6961325966850829	 w=None	 C=1.0
+Alltop10	 SVM 	0.7058011049723757	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.68646408839779	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6961325966850829	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6837016574585635	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.675414364640884	 w=None	 C=1.0
+Alltop6	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltop6	 SVM 	0.6781767955801105	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.680939226519337	 w=None	 C=1.0
+Alltop10	 LR 	0.6906077348066298	 w=None	 C=1.0
+Alltop10	 SVM 	0.6795580110497238	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6878453038674033	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.675414364640884	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7044198895027625	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7154696132596685	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6837016574585635	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6850828729281768	 w=None	 C=1.0
+Alltop6	 LR 	0.7002762430939227	 w=None	 C=1.0
+Alltop6	 SVM 	0.7085635359116023	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6795580110497238	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6823204419889503	 w=None	 C=1.0
+Alltop10	 LR 	0.6933701657458563	 w=None	 C=1.0
+Alltop10	 SVM 	0.7085635359116023	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6823204419889503	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6823204419889503	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6906077348066298	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7099447513812155	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6837016574585635	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop6	 LR 	0.6878453038674033	 w=None	 C=1.0
+Alltop6	 SVM 	0.7099447513812155	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.68646408839779	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltop10	 LR 	0.6919889502762431	 w=None	 C=1.0
+Alltop10	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7016574585635359	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6837016574585635	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6795580110497238	 w=None	 C=1.0
+Alltop6	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltop6	 SVM 	0.6961325966850829	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.680939226519337	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop10	 LR 	0.7030386740331491	 w=None	 C=1.0
+Alltop10	 SVM 	0.7002762430939227	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6837016574585635	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6892265193370166	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6671270718232044	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6146408839779005	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.675414364640884	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6781767955801105	 w=None	 C=1.0
+Alltop6	 LR 	0.6629834254143646	 w=None	 C=1.0
+Alltop6	 SVM 	0.6160220994475138	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6837016574585635	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop10	 LR 	0.6629834254143646	 w=None	 C=1.0
+Alltop10	 SVM 	0.6104972375690608	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.669889502762431	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6767955801104972	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6919889502762431	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6781767955801105	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6837016574585635	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6823204419889503	 w=None	 C=1.0
+Alltop6	 LR 	0.7002762430939227	 w=None	 C=1.0
+Alltop6	 SVM 	0.669889502762431	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6823204419889503	 w=None	 C=1.0
+Alltop10	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltop10	 SVM 	0.664364640883978	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6906077348066298	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7058011049723757	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6947513812154696	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6781767955801105	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6795580110497238	 w=None	 C=1.0
+Alltop6	 LR 	0.7030386740331491	 w=None	 C=1.0
+Alltop6	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6837016574585635	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop10	 LR 	0.7030386740331491	 w=None	 C=1.0
+Alltop10	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6712707182320442	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6781767955801105	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6712707182320442	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6933701657458563	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6823204419889503	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop6	 LR 	0.6795580110497238	 w=None	 C=1.0
+Alltop6	 SVM 	0.6850828729281768	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6823204419889503	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltop10	 LR 	0.680939226519337	 w=None	 C=1.0
+Alltop10	 SVM 	0.6988950276243094	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.68646408839779	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6823204419889503	 w={0: 1, 1: 1}	 C=10
+Alltrain_df3_removed	 LR 	0.6892265193370166	 w={0: 4, 1: 3}	 C=20
+Alltop6	 LR 	0.6837016574585635	 w={0: 1, 1: 1}	 C=20
+Alltop6_no_outliers	 LR 	0.6878453038674033	 w={0: 4, 1: 3}	 C=1000
+Alltop10	 LR 	0.6988950276243094	 w={0: 1, 1: 1}	 C=1000
+Alltop10_no_outliers	 LR 	0.6837016574585635	 w={0: 3, 1: 1.0}	 C=100
+Alltrain_df3	 LR 	0.6422651933701657	 w={0: 1, 1: 1}	 C=1
+Alltrain_df3_removed	 LR 	0.6823204419889503	 w={0: 4, 1: 3}	 C=20
+Alltop6	 LR 	0.6187845303867403	 w={0: 1, 1: 1}	 C=1
+Alltop6_no_outliers	 LR 	0.6035911602209945	 w={0: 4, 1: 3}	 C=1000
+Alltop10	 LR 	0.5	 w={0: 1, 1: 1}	 C=1000
+Alltop10_no_outliers	 LR 	0.6878453038674033	 w={0: 4, 1: 3}	 C=50
+Alltrain_df3	 LR 	0.6892265193370166	 w={0: 1, 1: 1}	 C=5
+Alltrain_df3_removed	 LR 	0.6878453038674033	 w={0: 4, 1: 3}	 C=100
+Alltop6	 LR 	0.6933701657458563	 w={0: 1, 1: 1}	 C=5
+Alltop6_no_outliers	 LR 	0.68646408839779	 w={0: 4, 1: 3}	 C=1000
+Alltop10	 LR 	0.7030386740331491	 w={0: 1, 1: 1}	 C=100
+Alltop10_no_outliers	 LR 	0.6892265193370166	 w={0: 4, 1: 3}	 C=20
+Alltrain_df3	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6933701657458563	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6837016574585635	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6823204419889503	 w=None	 C=1.0
+Alltop6	 LR 	0.6906077348066298	 w=None	 C=1.0
+Alltop6	 SVM 	0.7058011049723757	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.68646408839779	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop10	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltop10	 SVM 	0.7058011049723757	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6878453038674033	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6892265193370166	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6795580110497238	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6823204419889503	 w=None	 C=1.0
+Alltop6	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltop6	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.68646408839779	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6850828729281768	 w=None	 C=1.0
+Alltop10	 LR 	0.6933701657458563	 w=None	 C=1.0
+Alltop10	 SVM 	0.6975138121546961	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6892265193370166	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.680939226519337	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop6	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltop6	 SVM 	0.6933701657458563	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6795580110497238	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6795580110497238	 w=None	 C=1.0
+Alltop10	 LR 	0.7030386740331491	 w=None	 C=1.0
+Alltop10	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6961325966850829	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.680939226519337	 w=None	 C=1.0
+Alltop6	 LR 	0.7030386740331491	 w=None	 C=1.0
+Alltop6	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6837016574585635	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop10	 LR 	0.7002762430939227	 w=None	 C=1.0
+Alltop10	 SVM 	0.7058011049723757	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6878453038674033	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6878453038674033	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6919889502762431	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6961325966850829	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.680939226519337	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.680939226519337	 w=None	 C=1.0
+Alltop6	 LR 	0.6975138121546961	 w=None	 C=1.0
+Alltop6	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop10	 LR 	0.6961325966850829	 w=None	 C=1.0
+Alltop10	 SVM 	0.7002762430939227	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6850828729281768	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6961325966850829	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6988950276243094	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.680939226519337	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6795580110497238	 w=None	 C=1.0
+Alltop6	 LR 	0.7044198895027625	 w=None	 C=1.0
+Alltop6	 SVM 	0.6947513812154696	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6892265193370166	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6823204419889503	 w=None	 C=1.0
+Alltop10	 LR 	0.6961325966850829	 w=None	 C=1.0
+Alltop10	 SVM 	0.7058011049723757	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7058011049723757	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6975138121546961	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.680939226519337	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltop6	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltop6	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6878453038674033	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6850828729281768	 w=None	 C=1.0
+Alltop10	 LR 	0.6919889502762431	 w=None	 C=1.0
+Alltop10	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.68646408839779	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6961325966850829	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.680939226519337	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.680939226519337	 w=None	 C=1.0
+Alltop6	 LR 	0.7044198895027625	 w=None	 C=1.0
+Alltop6	 SVM 	0.6961325966850829	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6740331491712708	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.680939226519337	 w=None	 C=1.0
+Alltop10	 LR 	0.7002762430939227	 w=None	 C=1.0
+Alltop10	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6837016574585635	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6961325966850829	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.680939226519337	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.680939226519337	 w=None	 C=1.0
+Alltop6	 LR 	0.7044198895027625	 w=None	 C=1.0
+Alltop6	 SVM 	0.6961325966850829	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6740331491712708	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.680939226519337	 w=None	 C=1.0
+Alltop10	 LR 	0.7002762430939227	 w=None	 C=1.0
+Alltop10	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6837016574585635	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6961325966850829	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.680939226519337	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.680939226519337	 w=None	 C=1.0
+Alltop6	 LR 	0.7044198895027625	 w=None	 C=1.0
+Alltop6	 SVM 	0.6961325966850829	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6740331491712708	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.680939226519337	 w=None	 C=1.0
+Alltop10	 LR 	0.7002762430939227	 w=None	 C=1.0
+Alltop10	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6837016574585635	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6961325966850829	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.680939226519337	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.680939226519337	 w=None	 C=1.0
+Alltop6	 LR 	0.7044198895027625	 w=None	 C=1.0
+Alltop6	 SVM 	0.6961325966850829	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6740331491712708	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.680939226519337	 w=None	 C=1.0
+Alltop10	 LR 	0.7002762430939227	 w=None	 C=1.0
+Alltop10	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6837016574585635	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6919889502762431	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6988950276243094	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6837016574585635	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop6	 LR 	0.7016574585635359	 w=None	 C=1.0
+Alltop6	 SVM 	0.6975138121546961	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6906077348066298	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltop10	 LR 	0.6933701657458563	 w=None	 C=1.0
+Alltop10	 SVM 	0.6961325966850829	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6975138121546961	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6975138121546961	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6795580110497238	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6892265193370166	 w=None	 C=1.0
+Alltop6	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltop6	 SVM 	0.6975138121546961	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop10	 LR 	0.6906077348066298	 w=None	 C=1.0
+Alltop10	 SVM 	0.7099447513812155	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.68646408839779	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7016574585635359	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7002762430939227	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6795580110497238	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.680939226519337	 w=None	 C=1.0
+Alltop6	 LR 	0.6933701657458563	 w=None	 C=1.0
+Alltop6	 SVM 	0.6988950276243094	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.68646408839779	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6878453038674033	 w=None	 C=1.0
+Alltop10	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltop10	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.68646408839779	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6878453038674033	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.680939226519337	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop6	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltop6	 SVM 	0.6961325966850829	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6878453038674033	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop10	 LR 	0.6975138121546961	 w=None	 C=1.0
+Alltop10	 SVM 	0.6988950276243094	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.68646408839779	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6850828729281768	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6823204419889503	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltop6	 LR 	0.7030386740331491	 w=None	 C=1.0
+Alltop6	 SVM 	0.7030386740331491	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6878453038674033	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop10	 LR 	0.6961325966850829	 w=None	 C=1.0
+Alltop10	 SVM 	0.7085635359116023	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6850828729281768	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6961325966850829	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6988950276243094	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6795580110497238	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop6	 LR 	0.7030386740331491	 w=None	 C=1.0
+Alltop6	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6878453038674033	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop10	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltop10	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.68646408839779	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6961325966850829	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6933701657458563	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.680939226519337	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6795580110497238	 w=None	 C=1.0
+Alltop6	 LR 	0.7044198895027625	 w=None	 C=1.0
+Alltop6	 SVM 	0.7002762430939227	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6878453038674033	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6823204419889503	 w=None	 C=1.0
+Alltop10	 LR 	0.6919889502762431	 w=None	 C=1.0
+Alltop10	 SVM 	0.7030386740331491	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6892265193370166	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6919889502762431	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7113259668508287	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.680939226519337	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6795580110497238	 w=None	 C=1.0
+Alltop6	 LR 	0.7044198895027625	 w=None	 C=1.0
+Alltop6	 SVM 	0.6933701657458563	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6878453038674033	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6823204419889503	 w=None	 C=1.0
+Alltop10	 LR 	0.6933701657458563	 w=None	 C=1.0
+Alltop10	 SVM 	0.6975138121546961	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.68646408839779	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6906077348066298	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7058011049723757	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6823204419889503	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop6	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltop6	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.68646408839779	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.680939226519337	 w=None	 C=1.0
+Alltop10	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltop10	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6850828729281768	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6892265193370166	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7002762430939227	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6781767955801105	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6878453038674033	 w=None	 C=1.0
+Alltop6	 LR 	0.6961325966850829	 w=None	 C=1.0
+Alltop6	 SVM 	0.6988950276243094	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.68646408839779	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6823204419889503	 w=None	 C=1.0
+Alltop10	 LR 	0.6961325966850829	 w=None	 C=1.0
+Alltop10	 SVM 	0.6975138121546961	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6975138121546961	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.680939226519337	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6795580110497238	 w=None	 C=1.0
+Alltop6	 LR 	0.6933701657458563	 w=None	 C=1.0
+Alltop6	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6878453038674033	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltop10	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltop10	 SVM 	0.6988950276243094	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6878453038674033	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7002762430939227	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7058011049723757	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6795580110497238	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltop6	 LR 	0.7071823204419889	 w=None	 C=1.0
+Alltop6	 SVM 	0.7002762430939227	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6795580110497238	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6823204419889503	 w=None	 C=1.0
+Alltop10	 LR 	0.7030386740331491	 w=None	 C=1.0
+Alltop10	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.68646408839779	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7058011049723757	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6823204419889503	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop6	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltop6	 SVM 	0.6975138121546961	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6795580110497238	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6823204419889503	 w=None	 C=1.0
+Alltop10	 LR 	0.6975138121546961	 w=None	 C=1.0
+Alltop10	 SVM 	0.7058011049723757	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6878453038674033	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7002762430939227	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7099447513812155	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6823204419889503	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltop6	 LR 	0.7044198895027625	 w=None	 C=1.0
+Alltop6	 SVM 	0.7002762430939227	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.68646408839779	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop10	 LR 	0.7016574585635359	 w=None	 C=1.0
+Alltop10	 SVM 	0.7085635359116023	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6878453038674033	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7002762430939227	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6823204419889503	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6850828729281768	 w=None	 C=1.0
+Alltop6	 LR 	0.7044198895027625	 w=None	 C=1.0
+Alltop6	 SVM 	0.6961325966850829	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6795580110497238	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop10	 LR 	0.6975138121546961	 w=None	 C=1.0
+Alltop10	 SVM 	0.7085635359116023	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6837016574585635	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6823204419889503	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7044198895027625	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7058011049723757	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6781767955801105	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6823204419889503	 w=None	 C=1.0
+Alltop6	 LR 	0.7016574585635359	 w=None	 C=1.0
+Alltop6	 SVM 	0.7058011049723757	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6878453038674033	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6823204419889503	 w=None	 C=1.0
+Alltop10	 LR 	0.6933701657458563	 w=None	 C=1.0
+Alltop10	 SVM 	0.7030386740331491	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6837016574585635	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6975138121546961	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6781767955801105	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6823204419889503	 w=None	 C=1.0
+Alltop6	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltop6	 SVM 	0.6988950276243094	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6878453038674033	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6850828729281768	 w=None	 C=1.0
+Alltop10	 LR 	0.6975138121546961	 w=None	 C=1.0
+Alltop10	 SVM 	0.7099447513812155	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6795580110497238	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6781767955801105	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6933701657458563	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7030386740331491	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6781767955801105	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6823204419889503	 w=None	 C=1.0
+Alltop6	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltop6	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6892265193370166	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6878453038674033	 w=None	 C=1.0
+Alltop10	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltop10	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6823204419889503	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6823204419889503	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7113259668508287	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6837016574585635	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.680939226519337	 w=None	 C=1.0
+Alltop6	 LR 	0.6933701657458563	 w=None	 C=1.0
+Alltop6	 SVM 	0.7058011049723757	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6878453038674033	 w=None	 C=1.0
+Alltop10	 LR 	0.6906077348066298	 w=None	 C=1.0
+Alltop10	 SVM 	0.7058011049723757	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6837016574585635	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6850828729281768	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7058011049723757	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6933701657458563	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7099447513812155	 w=None	 C=1.0
+Alltop6	 LR 	0.7002762430939227	 w=None	 C=1.0
+Alltop6	 SVM 	0.7099447513812155	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6878453038674033	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7030386740331491	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7002762430939227	 w=None	 C=1.0
+Alltop6	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltop6	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7058011049723757	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6906077348066298	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7002762430939227	 w=None	 C=1.0
+Alltop6	 LR 	0.6919889502762431	 w=None	 C=1.0
+Alltop6	 SVM 	0.712707182320442	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7016574585635359	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7030386740331491	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6906077348066298	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6988950276243094	 w=None	 C=1.0
+Alltop6	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltop6	 SVM 	0.7058011049723757	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6878453038674033	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6919889502762431	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltop6	 LR 	0.6892265193370166	 w=None	 C=1.0
+Alltop6	 SVM 	0.7113259668508287	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.68646408839779	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7030386740331491	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6961325966850829	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6947513812154696	 w=None	 C=1.0
+Alltop6	 LR 	0.6933701657458563	 w=None	 C=1.0
+Alltop6	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6975138121546961	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6906077348066298	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltop6	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltop6	 SVM 	0.7085635359116023	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6933701657458563	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7154696132596685	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6892265193370166	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7030386740331491	 w=None	 C=1.0
+Alltop6	 LR 	0.6961325966850829	 w=None	 C=1.0
+Alltop6	 SVM 	0.712707182320442	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6933701657458563	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6919889502762431	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6988950276243094	 w=None	 C=1.0
+Alltop6	 LR 	0.6975138121546961	 w=None	 C=1.0
+Alltop6	 SVM 	0.7030386740331491	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7016574585635359	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6933701657458563	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6988950276243094	 w=None	 C=1.0
+Alltop6	 LR 	0.6919889502762431	 w=None	 C=1.0
+Alltop6	 SVM 	0.6988950276243094	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6975138121546961	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6919889502762431	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltop6	 LR 	0.6906077348066298	 w=None	 C=1.0
+Alltop6	 SVM 	0.7113259668508287	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6961325966850829	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7099447513812155	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6919889502762431	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltop6	 LR 	0.6919889502762431	 w=None	 C=1.0
+Alltop6	 SVM 	0.7113259668508287	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6975138121546961	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6933701657458563	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6975138121546961	 w=None	 C=1.0
+Alltop6	 LR 	0.6975138121546961	 w=None	 C=1.0
+Alltop6	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7044198895027625	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7058011049723757	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6975138121546961	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6988950276243094	 w=None	 C=1.0
+Alltop6	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltop6	 SVM 	0.7030386740331491	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7085635359116023	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6975138121546961	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6975138121546961	 w=None	 C=1.0
+Alltop6	 LR 	0.6933701657458563	 w=None	 C=1.0
+Alltop6	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7030386740331491	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7002762430939227	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6919889502762431	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltop6	 LR 	0.6906077348066298	 w=None	 C=1.0
+Alltop6	 SVM 	0.7002762430939227	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7113259668508287	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7030386740331491	 w=None	 C=1.0
+Alltop6	 LR 	0.6961325966850829	 w=None	 C=1.0
+Alltop6	 SVM 	0.6988950276243094	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7016574585635359	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7002762430939227	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6975138121546961	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6933701657458563	 w=None	 C=1.0
+Alltop6	 LR 	0.6919889502762431	 w=None	 C=1.0
+Alltop6	 SVM 	0.7099447513812155	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7085635359116023	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7099447513812155	 w=None	 C=1.0
+Alltop6	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltop6	 SVM 	0.7030386740331491	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7002762430939227	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7058011049723757	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6919889502762431	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltop6	 LR 	0.7016574585635359	 w=None	 C=1.0
+Alltop6	 SVM 	0.7058011049723757	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7002762430939227	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7030386740331491	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6961325966850829	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7030386740331491	 w=None	 C=1.0
+Alltop6	 LR 	0.7002762430939227	 w=None	 C=1.0
+Alltop6	 SVM 	0.7085635359116023	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6975138121546961	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6988950276243094	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6919889502762431	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltop6	 LR 	0.6919889502762431	 w=None	 C=1.0
+Alltop6	 SVM 	0.7030386740331491	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6892265193370166	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6988950276243094	 w=None	 C=1.0
+Alltop6	 LR 	0.6892265193370166	 w=None	 C=1.0
+Alltop6	 SVM 	0.7182320441988951	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7168508287292817	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6975138121546961	 w=None	 C=1.0
+Alltop6	 LR 	0.6975138121546961	 w=None	 C=1.0
+Alltop6	 SVM 	0.712707182320442	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7154696132596685	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6975138121546961	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltop6	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltop6	 SVM 	0.712707182320442	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7016574585635359	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.7016574585635359	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6988950276243094	 w=None	 C=1.0
+Alltop6	 LR 	0.7002762430939227	 w=None	 C=1.0
+Alltop6	 SVM 	0.7113259668508287	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7016574585635359	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7058011049723757	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7030386740331491	 w=None	 C=1.0
+Alltop6	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltop6	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7002762430939227	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7168508287292817	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6961325966850829	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6988950276243094	 w=None	 C=1.0
+Alltop6	 LR 	0.6961325966850829	 w=None	 C=1.0
+Alltop6	 SVM 	0.7113259668508287	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7002762430939227	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7113259668508287	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.7030386740331491	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6988950276243094	 w=None	 C=1.0
+Alltop6	 LR 	0.6975138121546961	 w=None	 C=1.0
+Alltop6	 SVM 	0.7113259668508287	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6975138121546961	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7002762430939227	 w=None	 C=1.0
+Alltop6	 LR 	0.7002762430939227	 w=None	 C=1.0
+Alltop6	 SVM 	0.7113259668508287	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7058011049723757	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7085635359116023	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltop6	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltop6	 SVM 	0.6988950276243094	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7058011049723757	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6947513812154696	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.7030386740331491	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltop6	 LR 	0.7030386740331491	 w=None	 C=1.0
+Alltop6	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7058011049723757	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6947513812154696	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.7030386740331491	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltop6	 LR 	0.7030386740331491	 w=None	 C=1.0
+Alltop6	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7030386740331491	 w={1: 0.47740667976, 0: 0.52259332023}	 C=1.0
+Alltrain_df3	 SVM 	0.7099447513812155	 w={1: 0.47740667976, 0: 0.52259332023}	 C=1.0
+Alltrain_df3_removed	 LR 	0.7016574585635359	 w={1: 0.47740667976, 0: 0.52259332023}	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6919889502762431	 w={1: 0.47740667976, 0: 0.52259332023}	 C=1.0
+Alltop6	 LR 	0.7002762430939227	 w={1: 0.47740667976, 0: 0.52259332023}	 C=1.0
+Alltop6	 SVM 	0.712707182320442	 w={1: 0.47740667976, 0: 0.52259332023}	 C=1.0
+Alltrain_df3	 LR 	0.7044198895027625	 w={1: 0.47740667976, 0: 0.52259332023}	 C=1.0
+Alltrain_df3	 SVM 	0.7140883977900553	 w={1: 0.47740667976, 0: 0.52259332023}	 C=1.0
+Alltrain_df3_removed	 LR 	0.6961325966850829	 w={1: 0.47740667976, 0: 0.52259332023}	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7030386740331491	 w={1: 0.47740667976, 0: 0.52259332023}	 C=1.0
+Alltop6	 LR 	0.7016574585635359	 w={1: 0.47740667976, 0: 0.52259332023}	 C=1.0
+Alltop6	 SVM 	0.6947513812154696	 w={1: 0.47740667976, 0: 0.52259332023}	 C=1.0
+Alltrain_df3	 LR 	0.7002762430939227	 w={1: 0.47740667976, 0: 0.52259332023}	 C=1.0
+Alltrain_df3	 SVM 	0.7099447513812155	 w={1: 0.47740667976, 0: 0.52259332023}	 C=1.0
+Alltrain_df3_removed	 LR 	0.7030386740331491	 w={1: 0.47740667976, 0: 0.52259332023}	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6975138121546961	 w={1: 0.47740667976, 0: 0.52259332023}	 C=1.0
+Alltop6	 LR 	0.7002762430939227	 w={1: 0.47740667976, 0: 0.52259332023}	 C=1.0
+Alltop6	 SVM 	0.6975138121546961	 w={1: 0.47740667976, 0: 0.52259332023}	 C=1.0
+Alltrain_df3	 LR 	0.7016574585635359	 w={1: 0.47740667976, 0: 0.52259332023}	 C=1.0
+Alltrain_df3	 LR 	0.7002762430939227	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7154696132596685	 w={1: 0.47740667976, 0: 0.52259332023}	 C=1.0
+Alltrain_df3	 SVM 	0.712707182320442	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6961325966850829	 w={1: 0.47740667976, 0: 0.52259332023}	 C=1.0
+Alltrain_df3_removed	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7030386740331491	 w={1: 0.47740667976, 0: 0.52259332023}	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6975138121546961	 w=None	 C=1.0
+Alltop6	 LR 	0.7016574585635359	 w={1: 0.47740667976, 0: 0.52259332023}	 C=1.0
+Alltop6	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltop6	 SVM 	0.7016574585635359	 w={1: 0.47740667976, 0: 0.52259332023}	 C=1.0
+Alltop6	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7016574585635359	 w={1: 0.47740667976, 0: 0.52259332023}	 C=1.0
+Alltrain_df3	 LR 	0.6961325966850829	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.712707182320442	 w={1: 0.47740667976, 0: 0.52259332023}	 C=1.0
+Alltrain_df3	 SVM 	0.7237569060773481	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6975138121546961	 w={1: 0.47740667976, 0: 0.52259332023}	 C=1.0
+Alltrain_df3_removed	 LR 	0.6975138121546961	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6975138121546961	 w={1: 0.47740667976, 0: 0.52259332023}	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6988950276243094	 w=None	 C=1.0
+Alltop6	 LR 	0.6975138121546961	 w={1: 0.47740667976, 0: 0.52259332023}	 C=1.0
+Alltop6	 LR 	0.6933701657458563	 w=None	 C=1.0
+Alltop6	 SVM 	0.7058011049723757	 w={1: 0.47740667976, 0: 0.52259332023}	 C=1.0
+Alltop6	 SVM 	0.7099447513812155	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6975138121546961	 w={1: 0.47740667976, 0: 0.52259332023}	 C=1.0
+Alltrain_df3	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6988950276243094	 w={1: 0.47740667976, 0: 0.52259332023}	 C=1.0
+Alltrain_df3	 SVM 	0.7030386740331491	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.7016574585635359	 w={1: 0.47740667976, 0: 0.52259332023}	 C=1.0
+Alltrain_df3_removed	 LR 	0.7016574585635359	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6919889502762431	 w={1: 0.47740667976, 0: 0.52259332023}	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7058011049723757	 w=None	 C=1.0
+Alltop6	 LR 	0.7002762430939227	 w={1: 0.47740667976, 0: 0.52259332023}	 C=1.0
+Alltop6	 LR 	0.7030386740331491	 w=None	 C=1.0
+Alltop6	 SVM 	0.7058011049723757	 w={1: 0.47740667976, 0: 0.52259332023}	 C=1.0
+Alltop6	 SVM 	0.7140883977900553	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6933701657458563	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltrain_df3	 LR 	0.7002762430939227	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7030386740331491	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltrain_df3	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.7016574585635359	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltrain_df3_removed	 LR 	0.7044198895027625	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6933701657458563	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7002762430939227	 w=None	 C=1.0
+Alltop6	 LR 	0.7030386740331491	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltop6	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltop6	 SVM 	0.7016574585635359	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltop6	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7030386740331491	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltrain_df3	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.712707182320442	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltrain_df3	 SVM 	0.7099447513812155	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.7002762430939227	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltrain_df3_removed	 LR 	0.6892265193370166	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7016574585635359	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltop6	 LR 	0.6961325966850829	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltop6	 LR 	0.6933701657458563	 w=None	 C=1.0
+Alltop6	 SVM 	0.6933701657458563	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltop6	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7058011049723757	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltrain_df3	 LR 	0.7002762430939227	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6988950276243094	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltrain_df3	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6975138121546961	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltrain_df3_removed	 LR 	0.6975138121546961	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7030386740331491	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7058011049723757	 w=None	 C=1.0
+Alltop6	 LR 	0.7030386740331491	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltop6	 LR 	0.7002762430939227	 w=None	 C=1.0
+Alltop6	 SVM 	0.7016574585635359	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltop6	 SVM 	0.7140883977900553	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6947513812154696	 w={1: 0.376, 0: 0.624}	 C=1.0
+Alltrain_df3	 LR 	0.7058011049723757	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6988950276243094	 w={1: 0.376, 0: 0.624}	 C=1.0
+Alltrain_df3	 SVM 	0.6947513812154696	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6892265193370166	 w={1: 0.376, 0: 0.624}	 C=1.0
+Alltrain_df3_removed	 LR 	0.7030386740331491	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6975138121546961	 w={1: 0.376, 0: 0.624}	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltop6	 LR 	0.6961325966850829	 w={1: 0.376, 0: 0.624}	 C=1.0
+Alltop6	 LR 	0.7030386740331491	 w=None	 C=1.0
+Alltop6	 SVM 	0.6961325966850829	 w={1: 0.376, 0: 0.624}	 C=1.0
+Alltop6	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6947513812154696	 w={1: 0.376, 0: 0.624}	 C=1.0
+Alltrain_df3	 LR 	0.7058011049723757	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6988950276243094	 w={1: 0.376, 0: 0.624}	 C=1.0
+Alltrain_df3	 SVM 	0.6947513812154696	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6892265193370166	 w={1: 0.376, 0: 0.624}	 C=1.0
+Alltrain_df3_removed	 LR 	0.7030386740331491	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6975138121546961	 w={1: 0.376, 0: 0.624}	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltop6	 LR 	0.6961325966850829	 w={1: 0.376, 0: 0.624}	 C=1.0
+Alltop6	 LR 	0.7030386740331491	 w=None	 C=1.0
+Alltop6	 SVM 	0.6961325966850829	 w={1: 0.376, 0: 0.624}	 C=1.0
+Alltop6	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6892265193370166	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6878453038674033	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6975138121546961	 w=None	 C=1.0
+Alltop6	 LR 	0.6919889502762431	 w=None	 C=1.0
+Alltop6	 SVM 	0.7002762430939227	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6906077348066298	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7002762430939227	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6919889502762431	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltop6	 LR 	0.6933701657458563	 w=None	 C=1.0
+Alltop6	 SVM 	0.712707182320442	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7002762430939227	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltop6	 LR 	0.6933701657458563	 w=None	 C=1.0
+Alltop6	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7099447513812155	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6961325966850829	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7030386740331491	 w=None	 C=1.0
+Alltop6	 LR 	0.6933701657458563	 w=None	 C=1.0
+Alltop6	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6906077348066298	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6892265193370166	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltop6	 LR 	0.6961325966850829	 w=None	 C=1.0
+Alltop6	 SVM 	0.7113259668508287	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6961325966850829	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6906077348066298	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltop6	 LR 	0.6919889502762431	 w=None	 C=1.0
+Alltop6	 SVM 	0.7154696132596685	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7030386740331491	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.712707182320442	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.680939226519337	 w=None	 C=1.0
+Alltop6	 LR 	0.6961325966850829	 w=None	 C=1.0
+Alltop6	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.68646408839779	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6850828729281768	 w=None	 C=1.0
+Alltop10	 LR 	0.6961325966850829	 w=None	 C=1.0
+Alltop10	 SVM 	0.7030386740331491	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6906077348066298	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6988950276243094	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6823204419889503	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6823204419889503	 w=None	 C=1.0
+Alltop6	 LR 	0.6975138121546961	 w=None	 C=1.0
+Alltop6	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6823204419889503	 w=None	 C=1.0
+Alltop10	 LR 	0.7002762430939227	 w=None	 C=1.0
+Alltop10	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6850828729281768	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7030386740331491	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6795580110497238	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.680939226519337	 w=None	 C=1.0
+Alltop6	 LR 	0.6933701657458563	 w=None	 C=1.0
+Alltop6	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.68646408839779	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop10	 LR 	0.6961325966850829	 w=None	 C=1.0
+Alltop10	 SVM 	0.6988950276243094	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.6850828729281768	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.6878453038674033	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7085635359116023	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.680939226519337	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6837016574585635	 w=None	 C=1.0
+Alltop6	 LR 	0.6961325966850829	 w=None	 C=1.0
+Alltop6	 SVM 	0.6975138121546961	 w=None	 C=1.0
+Alltop6_no_outliers	 LR 	0.68646408839779	 w=None	 C=1.0
+Alltop6_no_outliers	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltop10	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltop10	 SVM 	0.6988950276243094	 w=None	 C=1.0
+Alltop10_no_outliers	 LR 	0.68646408839779	 w=None	 C=1.0
+Alltop10_no_outliers	 SVM 	0.68646408839779	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7016574585635359	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7099447513812155	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6906077348066298	 w=None	 C=1.0
+Alltop6	 LR 	0.7002762430939227	 w=None	 C=1.0
+Alltop6	 SVM 	0.6988950276243094	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6933701657458563	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7113259668508287	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6933701657458563	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7099447513812155	 w=None	 C=1.0
+Alltop6	 LR 	0.6933701657458563	 w=None	 C=1.0
+Alltop6	 SVM 	0.7099447513812155	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7058011049723757	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltrain_df3	 LR 	0.7016574585635359	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7016574585635359	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltrain_df3	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.7030386740331491	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltrain_df3_removed	 LR 	0.7002762430939227	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7058011049723757	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7099447513812155	 w=None	 C=1.0
+Alltop6	 LR 	0.7030386740331491	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltop6	 LR 	0.7044198895027625	 w=None	 C=1.0
+Alltop6	 SVM 	0.6988950276243094	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltop6	 SVM 	0.7209944751381215	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7085635359116023	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltrain_df3	 LR 	0.7030386740331491	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7085635359116023	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltrain_df3	 SVM 	0.7099447513812155	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.7016574585635359	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltrain_df3_removed	 LR 	0.7030386740331491	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6961325966850829	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltop6	 LR 	0.7058011049723757	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltop6	 LR 	0.7002762430939227	 w=None	 C=1.0
+Alltop6	 SVM 	0.7016574585635359	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltop6	 SVM 	0.7030386740331491	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7044198895027625	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltrain_df3	 LR 	0.7016574585635359	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7030386740331491	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltrain_df3	 SVM 	0.7099447513812155	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6947513812154696	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltrain_df3_removed	 LR 	0.6933701657458563	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6961325966850829	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltop6	 LR 	0.7030386740331491	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltop6	 LR 	0.6975138121546961	 w=None	 C=1.0
+Alltop6	 SVM 	0.6961325966850829	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltop6	 SVM 	0.7113259668508287	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7113259668508287	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6933701657458563	 w=None	 C=1.0
+Alltop6	 LR 	0.7002762430939227	 w=None	 C=1.0
+Alltop6	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6961325966850829	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7099447513812155	 w=None	 C=1.0
+Alltop6	 LR 	0.7002762430939227	 w=None	 C=1.0
+Alltop6	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7058011049723757	 w=None	 C=1.0
+Alltop6	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltop6	 SVM 	0.7030386740331491	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6906077348066298	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7099447513812155	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6933701657458563	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltop6	 LR 	0.6933701657458563	 w=None	 C=1.0
+Alltop6	 SVM 	0.7085635359116023	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7002762430939227	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6947513812154696	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7085635359116023	 w=None	 C=1.0
+Alltop6	 LR 	0.6988950276243094	 w=None	 C=1.0
+Alltop6	 SVM 	0.7085635359116023	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7030386740331491	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6988950276243094	 w=None	 C=1.0
+Alltop6	 SVM 	0.7085635359116023	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7182320441988951	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7058011049723757	 w=None	 C=1.0
+Alltop6	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7002762430939227	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltrain_df3	 SVM 	0.7154696132596685	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7016574585635359	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7058011049723757	 w=None	 C=1.0
+Alltop6	 SVM 	0.7030386740331491	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltop6	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7071823204419889	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltrain_df3	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7002762430939227	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7002762430939227	 w=None	 C=1.0
+Alltop6	 SVM 	0.6975138121546961	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltop6	 SVM 	0.7002762430939227	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7016574585635359	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltrain_df3	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7044198895027625	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7002762430939227	 w=None	 C=1.0
+Alltop6	 SVM 	0.7085635359116023	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltop6	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7058011049723757	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltrain_df3	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7016574585635359	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltop6	 SVM 	0.7099447513812155	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltop6	 SVM 	0.7099447513812155	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7058011049723757	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6919889502762431	 w=None	 C=1.0
+Alltop6	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7140883977900553	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7030386740331491	 w=None	 C=1.0
+Alltop6	 SVM 	0.7002762430939227	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7085635359116023	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltop6	 SVM 	0.6988950276243094	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6947513812154696	 w={1: 0.376, 0: 0.624}	 C=1.0
+Alltrain_df3	 LR 	0.7058011049723757	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6988950276243094	 w={1: 0.376, 0: 0.624}	 C=1.0
+Alltrain_df3	 SVM 	0.6947513812154696	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6892265193370166	 w={1: 0.376, 0: 0.624}	 C=1.0
+Alltrain_df3_removed	 LR 	0.7030386740331491	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6975138121546961	 w={1: 0.376, 0: 0.624}	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltop6	 LR 	0.6961325966850829	 w={1: 0.376, 0: 0.624}	 C=1.0
+Alltop6	 LR 	0.7030386740331491	 w=None	 C=1.0
+Alltop6	 SVM 	0.6961325966850829	 w={1: 0.376, 0: 0.624}	 C=1.0
+Alltop6	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.6947513812154696	 w={1: 0.376, 0: 0.624}	 C=1.0
+Alltrain_df3	 LR 	0.7058011049723757	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6988950276243094	 w={1: 0.376, 0: 0.624}	 C=1.0
+Alltrain_df3	 SVM 	0.6947513812154696	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.6892265193370166	 w={1: 0.376, 0: 0.624}	 C=1.0
+Alltrain_df3_removed	 LR 	0.7030386740331491	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6975138121546961	 w={1: 0.376, 0: 0.624}	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltop6	 LR 	0.6961325966850829	 w={1: 0.376, 0: 0.624}	 C=1.0
+Alltop6	 LR 	0.7030386740331491	 w=None	 C=1.0
+Alltop6	 SVM 	0.6961325966850829	 w={1: 0.376, 0: 0.624}	 C=1.0
+Alltop6	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6961325966850829	 w=None	 C=1.0
+Alltop6	 SVM 	0.712707182320442	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6975138121546961	 w=None	 C=1.0
+Alltop6	 SVM 	0.7168508287292817	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7058011049723757	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6947513812154696	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.7030386740331491	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltop6	 LR 	0.7030386740331491	 w=None	 C=1.0
+Alltop6	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7113259668508287	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7058011049723757	 w=None	 C=1.0
+Alltop6	 SVM 	0.7058011049723757	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltop6	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.712707182320442	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltop6	 SVM 	0.7168508287292817	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7113259668508287	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7099447513812155	 w=None	 C=1.0
+Alltop6	 SVM 	0.7113259668508287	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.712707182320442	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6961325966850829	 w=None	 C=1.0
+Alltop6	 SVM 	0.7085635359116023	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7099447513812155	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7030386740331491	 w=None	 C=1.0
+Alltop6	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7002762430939227	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6988950276243094	 w=None	 C=1.0
+Alltop6	 SVM 	0.6975138121546961	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.712707182320442	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltop6	 SVM 	0.7099447513812155	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7002762430939227	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6933701657458563	 w=None	 C=1.0
+Alltop6	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7085635359116023	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7058011049723757	 w=None	 C=1.0
+Alltop6	 SVM 	0.7085635359116023	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7030386740331491	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltop6	 SVM 	0.712707182320442	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7085635359116023	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7002762430939227	 w=None	 C=1.0
+Alltop6	 SVM 	0.6988950276243094	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7030386740331491	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltop6	 SVM 	0.7030386740331491	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7099447513812155	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltop6	 SVM 	0.7030386740331491	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7085635359116023	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6975138121546961	 w=None	 C=1.0
+Alltop6	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7058011049723757	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7085635359116023	 w=None	 C=1.0
+Alltop6	 SVM 	0.7099447513812155	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7002762430939227	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltop6	 SVM 	0.7113259668508287	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7002762430939227	 w=None	 C=1.0
+Alltop6	 SVM 	0.7099447513812155	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7140883977900553	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltop6	 SVM 	0.7099447513812155	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltop6	 SVM 	0.7030386740331491	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7154696132596685	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6961325966850829	 w=None	 C=1.0
+Alltop6	 SVM 	0.7030386740331491	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7140883977900553	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltop6	 SVM 	0.7085635359116023	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7196132596685083	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7085635359116023	 w=None	 C=1.0
+Alltop6	 SVM 	0.6961325966850829	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7085635359116023	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltop6	 SVM 	0.7113259668508287	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7099447513812155	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6988950276243094	 w=None	 C=1.0
+Alltop6	 SVM 	0.7168508287292817	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6975138121546961	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7058011049723757	 w=None	 C=1.0
+Alltop6	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7140883977900553	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltop6	 SVM 	0.7140883977900553	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltop6	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7058011049723757	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6975138121546961	 w=None	 C=1.0
+Alltop6	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7140883977900553	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7030386740331491	 w=None	 C=1.0
+Alltop6	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7085635359116023	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6906077348066298	 w=None	 C=1.0
+Alltop6	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7058011049723757	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltop6	 SVM 	0.6961325966850829	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7058011049723757	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7002762430939227	 w=None	 C=1.0
+Alltop6	 SVM 	0.7154696132596685	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7058011049723757	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7016574585635359	 w=None	 C=1.0
+Alltop6	 SVM 	0.7099447513812155	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7002762430939227	 w=None	 C=1.0
+Alltop6	 SVM 	0.7002762430939227	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7099447513812155	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.6961325966850829	 w=None	 C=1.0
+Alltop6	 SVM 	0.7154696132596685	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.712707182320442	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7182320441988951	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7058011049723757	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7071823204419889	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7030386740331491	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.712707182320442	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7030386740331491	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7099447513812155	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7030386740331491	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7044198895027625	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltrain_df3	 SVM 	0.7030386740331491	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7044198895027625	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7002762430939227	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7085635359116023	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltrain_df3	 SVM 	0.7058011049723757	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7154696132596685	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7140883977900553	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.7058011049723757	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltrain_df3	 SVM 	0.7113259668508287	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7044198895027625	 w={1: 0.473684, 0: 0.526316}	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7058011049723757	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7058011049723757	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.7030386740331491	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7058011049723757	 w=None	 C=1.0
+Alltrain_df3	 SVM 	0.6947513812154696	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.7030386740331491	 w=None	 C=1.0
+Alltrain_df3_removed	 SVM 	0.7044198895027625	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7058011049723757	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.7030386740331491	 w=None	 C=1.0
+Alltrain_df3	 LR 	0.7058011049723757	 w=None	 C=1.0
+Alltrain_df3_removed	 LR 	0.7030386740331491	 w=None	 C=1.0
