@@ -1805,3 +1805,140 @@ Alltrain_df3	 LR 	0.7058011049723757	 w=None	 C=1.0
 Alltrain_df3_removed	 LR 	0.7030386740331491	 w=None	 C=1.0
 Alltrain_df3	 LR 	0.7058011049723757	 w=None	 C=1.0
 Alltrain_df3_removed	 LR 	0.7030386740331491	 w=None	 C=1.0
+Alltop10_no_outliers	Index(['lemma_jaccard_score', 'overall_sim_score', 'cosine/length_ratio',
+       'cosine_similarity_trigrams', 'jaccard_similarity_score',
+       'overlap_score', 'overlap2_score',
+       'overall_similarity_combined_semantic', 'jaccard_distance_bigrams',
+       'trigram_similarity'],
+      dtype='object')	 LR 	0.6961325966850829	dict_keys(['overlap2_score', 'lemma_jaccard_score', 'overlap_score', 'cosine/length_ratio', 'jaccard_similarity_score'])	 w={0: 76, 1: 24}	 C=1
+Alltop10_no_outliers	Index(['lemma_jaccard_score', 'overall_sim_score', 'cosine/length_ratio',
+       'cosine_similarity_trigrams', 'jaccard_similarity_score',
+       'overlap_score', 'overlap2_score',
+       'overall_similarity_combined_semantic', 'jaccard_distance_bigrams',
+       'trigram_similarity'],
+      dtype='object')	 LR 	0.6961325966850829	dict_keys(['overlap2_score', 'lemma_jaccard_score', 'overlap_score', 'cosine/length_ratio', 'jaccard_similarity_score'])	 w={0: 76, 1: 24}	 C=1
+Alltop10_no_outliers	 SVM 	0.7223756906077348	 w={0: 76, 1: 24}
+Alltop10_no_outliers	Index(['lemma_jaccard_score', 'overall_sim_score', 'cosine/length_ratio',
+       'cosine_similarity_trigrams', 'jaccard_similarity_score',
+       'overlap_score', 'overlap2_score', 'jaccard_distance_bigrams',
+       'trigram_similarity', 'overall_similarity_combined_semantic'],
+      dtype='object')	 LR 	0.6906077348066298	dict_keys(['overlap2_score', 'lemma_jaccard_score', 'cosine/length_ratio', 'overlap_score', 'trigram_similarity'])	 w={0: 76, 1: 24}	 C=1
+Alltop10_no_outliers	 SVM 	0.7182320441988951	 w={0: 76, 1: 24}
+Alltop10_no_outliers	Index(['lemma_jaccard_score', 'overall_sim_score', 'cosine/length_ratio',
+       'cosine_similarity_trigrams', 'jaccard_similarity_score',
+       'overlap_score', 'overlap2_score', 'jaccard_distance_bigrams',
+       'trigram_similarity', 'overall_similarity_combined_semantic'],
+      dtype='object')	 LR 	0.6906077348066298	dict_keys(['overlap2_score', 'lemma_jaccard_score', 'cosine/length_ratio', 'overlap_score', 'trigram_similarity'])	 w={0: 76, 1: 24}	 C=1
+Alltop10_no_outliers	 SVM 	0.7237569060773481	 w={0: 76, 1: 24}
+simpletrain_df3	 SVM 	0.5704419889502762	 w=None
+simpletrain_df3_removed	 SVM 	0.6850828729281768	 w=None
+simpletop6	 SVM 	0.5925414364640884	 w=None
+simpletop6_no_outliers	 SVM 	0.6837016574585635	 w=None
+simpletop10	 SVM 	0.5828729281767956	 w=None
+simpletop10_no_outliers	 SVM 	0.680939226519337	 w=None
+simpletrain_df3	 SVM 	0.5704419889502762	 w=None
+simpletrain_df3_removed	 SVM 	0.6850828729281768	 w=None
+simpletop6	 SVM 	0.5925414364640884	 w=None
+simpletop6_no_outliers	 SVM 	0.6837016574585635	 w=None
+simpletop10	 SVM 	0.5828729281767956	 w=None
+simpletop10_no_outliers	 SVM 	0.680939226519337	 w=None
+simpletrain_df3	Index(['cosine_similarity_score', 'length_similarity', 'overlap_score',
+       'overlap2_score', 'cosine/length_ratio', 'cosine_similarity_score2',
+       'jaccard_similarity_score', 'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'jaccard_distance_bigrams',
+       'cosine_similarity_bigrams', 'bigram_similarity',
+       'jaccard_distance_trigrams', 'cosine_similarity_trigrams',
+       'trigram_similarity', 'jaccard_distance_quadgrams',
+       'cosine_similarity_quadgrams', 'quadgram_similarity'],
+      dtype='object')	 LR 	0.6160220994475138	dict_keys(['lemma_jaccard_score', 'overall_sim_score', 'cosine_similarity_trigrams', 'cosine/length_ratio', 'overlap_score'])	 w=None	 C=1.0
+simpletrain_df3	 SVM 	0.5704419889502762	 w=None
+simpletrain_df3_removed	Index(['cosine_similarity_score', 'length_similarity', 'overlap_score',
+       'overlap2_score', 'cosine/length_ratio', 'cosine_similarity_score2',
+       'jaccard_similarity_score', 'lemma_jaccard_score', 'overall_sim_score',
+       'overall_similarity_path_semantic', 'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic', 'jaccard_distance_bigrams',
+       'cosine_similarity_bigrams', 'bigram_similarity',
+       'jaccard_distance_trigrams', 'cosine_similarity_trigrams',
+       'trigram_similarity', 'jaccard_distance_quadgrams',
+       'cosine_similarity_quadgrams', 'quadgram_similarity'],
+      dtype='object')	 LR 	0.6781767955801105	dict_keys(['lemma_jaccard_score', 'jaccard_similarity_score', 'cosine/length_ratio', 'overall_sim_score', 'cosine_similarity_score'])	 w=None	 C=1.0
+simpletrain_df3_removed	 SVM 	0.6850828729281768	 w=None
+simpletop6	Index(['lemma_jaccard_score', 'overall_sim_score', 'cosine/length_ratio',
+       'cosine_similarity_trigrams', 'jaccard_similarity_score',
+       'overlap_score'],
+      dtype='object')	 LR 	0.6174033149171271	dict_keys(['lemma_jaccard_score', 'overall_sim_score', 'cosine_similarity_trigrams', 'cosine/length_ratio', 'overlap_score'])	 w=None	 C=1.0
+simpletop6	 SVM 	0.5925414364640884	 w=None
+simpletop6_no_outliers	Index(['lemma_jaccard_score', 'overall_sim_score', 'cosine/length_ratio',
+       'cosine_similarity_trigrams', 'jaccard_similarity_score',
+       'overlap_score'],
+      dtype='object')	 LR 	0.675414364640884	dict_keys(['lemma_jaccard_score', 'jaccard_similarity_score', 'cosine/length_ratio', 'cosine_similarity_trigrams', 'overall_sim_score'])	 w=None	 C=1.0
+simpletop6_no_outliers	 SVM 	0.6837016574585635	 w=None
+simpletop10	Index(['lemma_jaccard_score', 'overall_sim_score', 'cosine/length_ratio',
+       'cosine_similarity_trigrams', 'jaccard_similarity_score',
+       'overlap_score', 'overlap2_score',
+       'overall_similarity_combined_semantic', 'jaccard_distance_bigrams',
+       'trigram_similarity'],
+      dtype='object')	 LR 	0.6270718232044199	dict_keys(['lemma_jaccard_score', 'overall_sim_score', 'cosine_similarity_trigrams', 'overlap_score', 'trigram_similarity'])	 w=None	 C=1.0
+simpletop10	 SVM 	0.5828729281767956	 w=None
+simpletop10_no_outliers	Index(['lemma_jaccard_score', 'overall_sim_score', 'cosine/length_ratio',
+       'cosine_similarity_trigrams', 'jaccard_similarity_score',
+       'overlap_score', 'overlap2_score',
+       'overall_similarity_combined_semantic', 'jaccard_distance_bigrams',
+       'trigram_similarity'],
+      dtype='object')	 LR 	0.6823204419889503	dict_keys(['lemma_jaccard_score', 'cosine/length_ratio', 'jaccard_similarity_score', 'overall_sim_score', 'cosine_similarity_trigrams'])	 w=None	 C=1.0
+simpletop10_no_outliers	 SVM 	0.680939226519337	 w=None
+simpletrain_df3	Index(['cosine_similarity_score', 'length_similarity', 'overlap_score',
+       'overlap2_score', 'cosine/length_ratio', 'cosine_similarity_score2',
+       'jaccard_similarity_score', 'lemma_jaccard_score', 'overall_sim_score',
+       'jaccard_distance_bigrams', 'cosine_similarity_bigrams',
+       'bigram_similarity', 'jaccard_distance_trigrams',
+       'cosine_similarity_trigrams', 'trigram_similarity',
+       'jaccard_distance_quadgrams', 'cosine_similarity_quadgrams',
+       'quadgram_similarity', 'overall_similarity_path_semantic',
+       'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic'],
+      dtype='object')	 LR 	0.6339779005524862	dict_keys(['lemma_jaccard_score', 'overall_sim_score', 'overlap2_score', 'overlap_score', 'trigram_similarity'])	 w=None	 C=1.0
+simpletrain_df3	 SVM 	0.5566298342541437	 w=None
+simpletrain_df3_removed	Index(['lemma_jaccard_score', 'overall_sim_score', 'cosine/length_ratio',
+       'cosine_similarity_trigrams', 'jaccard_similarity_score',
+       'overlap_score', 'overlap2_score', 'jaccard_distance_bigrams',
+       'trigram_similarity', 'overall_similarity_combined_semantic'],
+      dtype='object')	 LR 	0.6367403314917127	dict_keys(['lemma_jaccard_score', 'overall_sim_score', 'trigram_similarity', 'overlap2_score', 'cosine_similarity_trigrams'])	 w=None	 C=1.0
+simpletrain_df3_removed	 SVM 	0.580110497237569	 w=None
+simpletrain_df3	Index(['cosine_similarity_score', 'length_similarity', 'overlap_score',
+       'overlap2_score', 'cosine/length_ratio', 'cosine_similarity_score2',
+       'jaccard_similarity_score', 'lemma_jaccard_score', 'overall_sim_score',
+       'jaccard_distance_bigrams', 'cosine_similarity_bigrams',
+       'bigram_similarity', 'jaccard_distance_trigrams',
+       'cosine_similarity_trigrams', 'trigram_similarity',
+       'jaccard_distance_quadgrams', 'cosine_similarity_quadgrams',
+       'quadgram_similarity', 'overall_similarity_path_semantic',
+       'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic'],
+      dtype='object')	 LR 	0.6339779005524862	dict_keys(['lemma_jaccard_score', 'overall_sim_score', 'overlap2_score', 'overlap_score', 'trigram_similarity'])	 w=None	 C=1.0
+simpletrain_df3	 SVM 	0.5566298342541437	 w=None
+simpletrain_df3_removed	Index(['cosine_similarity_score', 'length_similarity', 'overlap_score',
+       'overlap2_score', 'cosine/length_ratio', 'cosine_similarity_score2',
+       'jaccard_similarity_score', 'lemma_jaccard_score', 'overall_sim_score',
+       'jaccard_distance_bigrams', 'cosine_similarity_bigrams',
+       'bigram_similarity', 'jaccard_distance_trigrams',
+       'cosine_similarity_trigrams', 'trigram_similarity',
+       'jaccard_distance_quadgrams', 'cosine_similarity_quadgrams',
+       'quadgram_similarity', 'overall_similarity_path_semantic',
+       'overall_similarity_wup_semantic',
+       'overall_similarity_combined_semantic'],
+      dtype='object')	 LR 	0.675414364640884	dict_keys(['lemma_jaccard_score', 'overall_sim_score', 'overlap2_score', 'jaccard_similarity_score', 'cosine/length_ratio'])	 w=None	 C=1.0
+simpletrain_df3_removed	 SVM 	0.6781767955801105	 w=None
+simpletop10	Index(['lemma_jaccard_score', 'overall_sim_score', 'cosine/length_ratio',
+       'cosine_similarity_trigrams', 'jaccard_similarity_score',
+       'overlap_score', 'overlap2_score', 'jaccard_distance_bigrams',
+       'trigram_similarity', 'overall_similarity_combined_semantic'],
+      dtype='object')	 LR 	0.6367403314917127	dict_keys(['lemma_jaccard_score', 'overall_sim_score', 'trigram_similarity', 'overlap2_score', 'cosine_similarity_trigrams'])	 w=None	 C=1.0
+simpletop10	 SVM 	0.580110497237569	 w=None
+simpletop10_no_outliers	Index(['lemma_jaccard_score', 'overall_sim_score', 'cosine/length_ratio',
+       'cosine_similarity_trigrams', 'jaccard_similarity_score',
+       'overlap_score', 'overlap2_score', 'jaccard_distance_bigrams',
+       'trigram_similarity', 'overall_similarity_combined_semantic'],
+      dtype='object')	 LR 	0.669889502762431	dict_keys(['lemma_jaccard_score', 'overall_sim_score', 'overlap2_score', 'cosine/length_ratio', 'jaccard_similarity_score'])	 w=None	 C=1.0
+simpletop10_no_outliers	 SVM 	0.6767955801104972	 w=None
